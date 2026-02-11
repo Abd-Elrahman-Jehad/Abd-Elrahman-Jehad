@@ -38,5 +38,8 @@ A cloud computing project that simulates a taxi service on a **cluster-like arch
 
 ---
 
-## Contact
-- GitHub: [Abd-Elrahman-Jehad](https://github.com/Abd-Elrahman-Jehad)
+## 🌐 Contact
+
+- 💻 GitHub: [Abd-Elrahman-Jehad](https://github.com/Abd-Elrahman-Jehad)
+- 🔗 LinkedIn: [Abd Elrahman Jehad](www.linkedin.com/in/abd-elrahman-jehad-aldasht)
+
