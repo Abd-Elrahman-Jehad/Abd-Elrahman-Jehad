@@ -9,7 +9,9 @@
 I’m Abd Elrahman. J .Aldasht — a Front-End Web Developer working on building clean, responsive, and user-friendly web interfaces using HTML, CSS, and JavaScript.
 
 I work on converting designs into functional web applications and writing structured, maintainable code that follows best development practices. In addition to front-end development, I have a solid foundation in Java and Object-Oriented Programming, which supports strong problem-solving and logical thinking when building software solutions.
+
 I focus on developing reliable web projects, improving code quality, and continuously expanding my technical skills through practical work and real-world projects.
+
 | Front-End Web Developer | HTML | CSS | JavaScript | Java & OOP | Problem Solving |
 
 📌 Open for freelance opportunities and internships.
