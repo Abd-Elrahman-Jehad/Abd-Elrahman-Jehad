@@ -26,16 +26,33 @@ I focus on developing reliable web projects, improving code quality, and continu
 ---
 
 ## Featured Projects
-🎓**[University Management System (Java)](https://github.com/Abd-Elrahman-Jehad/university-management-system-java)**  
-Console-based university management system developed using Java and core Object-Oriented Programming principles. The system manages students, courses, and academic records through a structured menu-driven interface.
 
-Applied OOP concepts including encapsulation, inheritance, and abstraction.
+🚗 **[Lilia Motors – Luxury Car Showroom](https://github.com/YOUR-USERNAME/lilia-motors-frontend)**  
+Modern frontend website for a luxury car showroom built using HTML, CSS, and JavaScript.
 
-Used ArrayList for dynamic data management and flexible record handling.
+Designed a complete multi-section layout tailored for a premium automotive experience.
 
-Implemented validation logic and structured program flow using loops and conditionals.
+Developed key sections including Hero, Features, Services, About, Car Portfolio, Team, Pricing, Blog, and Contact.
 
-Focused on clean code structure and modular design.
+Implemented interactive UI elements such as hover effects, smooth animations, and scroll-based reveal.
+
+Built a dynamic car showcase with filtering system for different categories.
+
+Ensured fully responsive layout across mobile, tablet, and desktop devices.
+
+Structured the layout using Flexbox and CSS Grid for clean and scalable design.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea9394f9-ceab-42b5-966e-749dbf1339a4" width="30%" />
+  <img src="https://github.com/user-attachments/assets/cbbe6247-2234-4040-aa1e-07f389edd4ea" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2f8c0d00-6770-4dfd-899b-c4687cc9eb51" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31a68b35-ed9d-4d53-bf47-34309eb0579c" width="30%" />
+  <img src="https://github.com/user-attachments/assets/7c185ff8-e78d-429a-a2dd-97a4140b8fc0" width="30%" />
+  <img src="https://github.com/user-attachments/assets/69203b2c-6e68-4718-a002-83973ec70de3" width="30%" />
+</p>
 
 🌐**[Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)**  
 Modern responsive personal portfolio built using HTML, CSS, and JavaScript to showcase projects and technical skills.
@@ -87,6 +104,17 @@ Designed structured forms and integrated server-side validation.
 Configured Docker containers for Apache and MySQL services.
 
 Ensured portability and consistent local deployment environment.
+
+🎓**[University Management System (Java)](https://github.com/Abd-Elrahman-Jehad/university-management-system-java)**  
+Console-based university management system developed using Java and core Object-Oriented Programming principles. The system manages students, courses, and academic records through a structured menu-driven interface.
+
+Applied OOP concepts including encapsulation, inheritance, and abstraction.
+
+Used ArrayList for dynamic data management and flexible record handling.
+
+Implemented validation logic and structured program flow using loops and conditionals.
+
+Focused on clean code structure and modular design.
 
 ☁**[Spark Taxi Cloud Project (Cloud + ML)](https://github.com/Abd-Elrahman-Jehad/spark-taxi-cloud-project)**  
 Cloud computing project simulating a taxi service system using distributed architecture concepts and data analytics.
