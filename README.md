@@ -48,11 +48,6 @@ Structured the layout using Flexbox and CSS Grid for clean and scalable design.
   <img src="https://github.com/user-attachments/assets/2f8c0d00-6770-4dfd-899b-c4687cc9eb51" width="30%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/31a68b35-ed9d-4d53-bf47-34309eb0579c" width="30%" />
-  <img src="https://github.com/user-attachments/assets/7c185ff8-e78d-429a-a2dd-97a4140b8fc0" width="30%" />
-  <img src="https://github.com/user-attachments/assets/69203b2c-6e68-4718-a002-83973ec70de3" width="30%" />
-</p>
 
 🌐**[Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)**  
 Modern responsive personal portfolio built using HTML, CSS, and JavaScript to showcase projects and technical skills.
