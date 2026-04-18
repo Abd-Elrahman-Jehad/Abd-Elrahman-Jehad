@@ -48,6 +48,35 @@ Structured the layout using Flexbox and CSS Grid for clean and scalable design.
   <img src="https://github.com/user-attachments/assets/2f8c0d00-6770-4dfd-899b-c4687cc9eb51" width="30%" />
 </p>
 
+🦷 **[Lazord – Dental Clinic & Digital Lab Website](https://github.com/Abd-Elrahman-Jehad/DentalClinic.git)**
+Modern frontend website for a dental clinic and digital lab built using HTML, CSS, and JavaScript.
+
+Designed a complete multi-page layout tailored for a modern medical experience.
+
+Developed key sections including Hero, Solutions, Products, Workflow, About, Contact, and FAQ.
+
+Implemented a full authentication UI system including Login, Register, Forgot Password, and Reset Password with form validation and user flow handling.
+
+Integrated Google login (UI simulation) as part of the authentication experience.
+
+Built interactive UI elements such as hover effects, smooth transitions, and scroll-based animations.
+
+Ensured a fully responsive layout across mobile, tablet, and desktop devices.
+
+Structured the layout using Flexbox and CSS Grid for clean, organized, and scalable design.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf76b6ac-4dbb-4c9e-802c-ecf29e4b5cfe" width="32%" />
+  <img src="https://github.com/user-attachments/assets/96f3a01d-58b8-48b9-aad4-6380d7b2be32" width="32%" />
+  <img src="https://github.com/user-attachments/assets/b2078073-b66f-4f36-8f08-241f7f31ff0a" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08dfcd29-21a2-4170-89cd-a7718905d247" width="32%" />
+  <img src="https://github.com/user-attachments/assets/1be335d0-13d7-479c-926f-a3db28fc0a80" width="32%" />
+  <img src="https://github.com/user-attachments/assets/97340f98-012a-4a5e-950d-c22431ec2978" width="32%" />
+</p>
+
 
 🌐**[Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)**  
 Modern responsive personal portfolio built using HTML, CSS, and JavaScript to showcase projects and technical skills.
