@@ -49,6 +49,7 @@ Structured the layout using Flexbox and CSS Grid for clean and scalable design.
 </p>
 
 🦷 **[Lazord – Dental Clinic & Digital Lab Website](https://github.com/Abd-Elrahman-Jehad/DentalClinic.git)**
+
 Modern frontend website for a dental clinic and digital lab built using HTML, CSS, and JavaScript.
 
 Designed a complete multi-page layout tailored for a modern medical experience.
