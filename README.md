@@ -27,7 +27,7 @@ I focus on developing reliable web projects, improving code quality, and continu
 
 ## Featured Projects
 
-🚗 **[Lilia Motors – Luxury Car Showroom](https://github.com/YOUR-USERNAME/lilia-motors-frontend)**  
+🚗 **[Lilia Motors – Luxury Car Showroom](https://github.com/Abd-Elrahman-Jehad/lilia-motors-website.git)**  
 Modern frontend website for a luxury car showroom built using HTML, CSS, and JavaScript.
 
 Designed a complete multi-section layout tailored for a premium automotive experience.
