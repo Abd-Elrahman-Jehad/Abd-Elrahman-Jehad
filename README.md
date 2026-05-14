@@ -27,7 +27,7 @@ I focus on developing reliable web projects, improving code quality, and continu
 
 ## Featured Projects
 
-🚴 [XTRA Bike Shop – Futuristic Premium Bicycle Experience](https://abd-elrahman-jehad.github.io/XTRA/)
+🚴 [XTRA Bike Shop – Futuristic Premium Bicycle Experience]([https://abd-elrahman-jehad.github.io/XTRA/](https://github.com/Abd-Elrahman-Jehad/DentalClinic.git))
 
 A cinematic futuristic bicycle website built with a luxury dark UI, immersive animations, and high-end frontend interactions using HTML, CSS, and JavaScript.
 
