@@ -27,6 +27,39 @@ I focus on developing reliable web projects, improving code quality, and continu
 
 ## Featured Projects
 
+🚴 [XTRA Bike Shop – Futuristic Premium Bicycle Experience](https://abd-elrahman-jehad.github.io/XTRA/)
+
+A cinematic futuristic bicycle website built with a luxury dark UI, immersive animations, and high-end frontend interactions using HTML, CSS, and JavaScript.
+
+Designed and developed a complete premium multi-section experience inspired by futuristic automotive interfaces, cyberpunk visuals, and luxury digital experiences.
+
+Developed advanced sections including Hero, About, Services, Shop, FAQ, Contact, and interactive Product Showcase.
+
+Implemented modern frontend systems such as:
+- Cinematic loading screen
+- Racing wheel animations
+- Premium hover interactions
+- Dynamic navigation effects
+- Smooth scroll animations
+- Interactive transitions
+- Responsive adaptive layouts
+
+Integrated powerful frontend technologies including GSAP, Three.js, tsParticles, Flexbox, and CSS Grid to create a modern immersive experience.
+
+Focused heavily on:
+- Luxury visual identity
+- Cinematic UI/UX
+- Smooth motion systems
+- High-end responsive design
+- Premium frontend architecture
+
+Ensured fully responsive layout across desktop, tablet, and mobile devices while maintaining smooth animation performance and visual consistency.
+
+<p align="center">
+  <img src="ضع_رابط_الصورة_1_هنا" width="30%" />
+  <img src="ضع_رابط_الصورة_2_هنا" width="30%" />
+  <img src="ضع_رابط_الصورة_3_هنا" width="30%" />
+</p>
 🚗 **[Lilia Motors – Luxury Car Showroom](https://github.com/Abd-Elrahman-Jehad/lilia-motors-website.git)**  
 Modern frontend website for a luxury car showroom built using HTML, CSS, and JavaScript.
 
