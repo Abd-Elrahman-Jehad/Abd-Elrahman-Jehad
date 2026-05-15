@@ -57,10 +57,11 @@ Focused heavily on:
 Ensured fully responsive layout across desktop, tablet, and mobile devices while maintaining smooth animation performance and visual consistency.
 
 <p align="center">
-  <img width="1914" height="912" alt="Screenshot 2026-05-15 210444" src="https://github.com/user-attachments/assets/726ea515-9d16-4118-8ccc-b12341c1a837 "width="30%" />
-<img width="1919" height="924" alt="Screenshot 2026-05-15 210421" src="https://github.com/user-attachments/assets/a696e138-bdb0-479a-9e93-42d9bba983e2" width="30%" />
+  <img alt="Screenshot 2026-05-15 210444" src="https://github.com/user-attachments/assets/726ea515-9d16-4118-8ccc-b12341c1a837 "width="30%" />
+<img  alt="Screenshot 2026-05-15 210421" src="https://github.com/user-attachments/assets/a696e138-bdb0-479a-9e93-42d9bba983e2" width="30%" />
 
-<img width="1916" height="931" alt="Screenshot 2026-05-15 213219" src="https://github.com/user-attachments/assets/74af9fb2-6d8e-4c76-8048-79d21d9b1d25"  width="30%" />
+
+<img alt="Screenshot 2026-05-15 213219" src="https://github.com/user-attachments/assets/74af9fb2-6d8e-4c76-8048-79d21d9b1d25"  width="30%" />
 
 
 </p>
