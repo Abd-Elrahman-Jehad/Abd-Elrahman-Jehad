@@ -59,9 +59,9 @@ Ensured fully responsive layout across desktop, tablet, and mobile devices while
 <p align="center">
   <img alt="Screenshot 2026-05-15 210444" src="https://github.com/user-attachments/assets/726ea515-9d16-4118-8ccc-b12341c1a837 "width="30%" />
 <img  alt="Screenshot 2026-05-15 210421" src="https://github.com/user-attachments/assets/a696e138-bdb0-479a-9e93-42d9bba983e2" width="30%" />
-
-
+<img  alt="Screenshot 2026-05-15 214356" src="https://github.com/user-attachments/assets/e3f38f49-36a6-4fab-81c6-6b8ce17ffee6"  width="30%" />
 <img alt="Screenshot 2026-05-15 213219" src="https://github.com/user-attachments/assets/74af9fb2-6d8e-4c76-8048-79d21d9b1d25"  width="30%" />
+
 
 
 </p>
