@@ -26,9 +26,8 @@ I focus on developing reliable web projects, improving code quality, and continu
 ---
 
 ## Featured Projects
-🦷 **[Lazord – Dental Clinic & Digital Lab Website](https://github.com/Abd-Elrahman-Jehad/DentalClinic.git)**
 
-🚴 **[XTRA Bike Shop – Futuristic Premium Bicycle Experience]([https://abd-elrahman-jehad.github.io/XTRA/](https://github.com/Abd-Elrahman-Jehad/DentalClinic.git)**
+🚴 **[XTRA Bike Shop – Futuristic Premium Bicycle Experience](https://github.com/Abd-Elrahman-Jehad/XTRA)**
 
 A cinematic futuristic bicycle website built with a luxury dark UI, immersive animations, and high-end frontend interactions using HTML, CSS, and JavaScript.
 
@@ -57,7 +56,8 @@ Focused heavily on:
 Ensured fully responsive layout across desktop, tablet, and mobile devices while maintaining smooth animation performance and visual consistency.
 
 <p align="center">
-  <img src="ضع_رابط_الصورة_1_هنا" width="30%" />
+  <img src="![Uploading image.png…]()
+" width="30%" />
   <img src="ضع_رابط_الصورة_2_هنا" width="30%" />
   <img src="ضع_رابط_الصورة_3_هنا" width="30%" />
 </p>
