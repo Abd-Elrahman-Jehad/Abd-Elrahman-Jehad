@@ -10,17 +10,15 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 
 ---
 
-## About Me
-I’m Abd Elrahman. J .Aldasht — a Front-End Web Developer working on building clean, responsive, and user-friendly web interfaces using HTML, CSS, and JavaScript.
+## 👨‍💻 About Me
 
-I work on converting designs into functional web applications and writing structured, maintainable code that follows best development practices. In addition to front-end development, I have a solid foundation in Java and Object-Oriented Programming, which supports strong problem-solving and logical thinking when building software solutions.
+I'm Abd Elrahman Jehad Aldasht, a Software Engineer with a strong passion for building modern, responsive, and user-focused web experiences.
 
-I focus on developing reliable web projects, improving code quality, and continuously expanding my technical skills through practical work and real-world projects.
+My work focuses on transforming ideas and UI designs into fast, interactive, and maintainable websites using modern front-end technologies and software engineering best practices.
 
-| Front-End Web Developer | HTML | CSS | JavaScript | Java & OOP | Problem Solving |
+I enjoy solving real-world problems through clean architecture, structured code, and intuitive user interfaces while continuously improving performance, scalability, and overall user experience.
 
-📌 Open for freelance opportunities and internships.
----
+Currently, I'm focused on developing high-quality software solutions, expanding my technical expertise, and contributing to impactful projects.
 
 ## Skills & Tools
 - **Languages:** Java, PHP, JavaScript, HTML, CSS
