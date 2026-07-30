@@ -9,22 +9,17 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 </p>
 
 <p align="center">
+  <a href="https://github.com/Abd-Elrahman-Jehad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/Abd-Elrahman-Jehad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
+  <a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Software+Engineer;Front-End+Web+Developer;Building+Modern+Responsive+Websites;Clean+Code+%7C+Scalable+Architecture;Always+Building+Something+New"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=7000&pause=2200&color=58A6FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Front-End+Web+Developer;Building+Modern+Responsive+Websites;Clean+Code+%7C+Scalable+Architecture;Always+Building+Something+New"/>
 </p>
 
 ---
@@ -73,19 +68,19 @@ I'm always looking for opportunities to contribute to meaningful projects, solve
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abd-Elrahman-Jehad&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abd-Elrahman-Jehad&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-Jehad&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-Jehad&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
