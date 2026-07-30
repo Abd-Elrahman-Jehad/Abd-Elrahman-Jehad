@@ -50,19 +50,35 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 
 I'm **Abd Elrahman Jehad Aldasht**, a **Software Engineer** specializing in **Front-End Development**.
 
-I build modern, responsive, and user-centered websites by transforming ideas and UI designs into fast, interactive, and maintainable digital experiences using **HTML, CSS, JavaScript, PHP, and Java**.
+I build modern, responsive, and user-centered websites by transforming ideas into fast, interactive, and maintainable digital experiences using **HTML, CSS, JavaScript, PHP, and Java**.
 
-I enjoy writing clean, scalable code, creating intuitive user experiences, and developing high-quality software that combines performance, responsiveness, and maintainability.
+I'm passionate about writing clean, scalable code, creating intuitive user experiences, and developing software that combines performance, responsiveness, and maintainability.
 
-I'm always open to collaborating on impactful projects and continuously improving my technical expertise.
+I'm always open to collaborating on meaningful projects and continuously expanding my technical expertise.
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
+
+<table>
+<tr>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=8B949E"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-Jehad&layout=compact&theme=github_dark&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=8B949E"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&theme=github-dark&hide_border=true"/>
 
 </p>
 
