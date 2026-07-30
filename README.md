@@ -18,7 +18,6 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
