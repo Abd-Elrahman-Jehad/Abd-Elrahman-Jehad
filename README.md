@@ -57,20 +57,19 @@ I'm passionate about writing clean, scalable code, creating intuitive user exper
 I'm always open to collaborating on meaningful projects and continuously expanding my technical expertise.
 
 ---
-
 ## 📊 GitHub Activity
 
-<table>
+<table align="center">
 <tr>
-<td>
+<td align="center">
 
 <img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=8B949E"/>
 
 </td>
 
-<td>
+<td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-Jehad&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abd-Elrahman-Jehad&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=3"/>
 
 </td>
 </tr>
@@ -78,7 +77,7 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&theme=github-dark&hide_border=true"/>
 
 </p>
 
