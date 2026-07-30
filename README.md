@@ -1,8 +1,12 @@
+<h1 align="center">Hi 👋, I'm Abd Elrahman Jehad Aldasht</h1>
 
-# Hi, I'm Abd Elrahman Jehad Aldasht
+<h3 align="center">
+Software Engineer • Front-End Web Developer
+</h3>
 
-💻 Software Developer | Java & Web Development  
-📍 Palestine, Gaza
+<p align="center">
+Building modern, responsive, and high-performance websites with clean, scalable, and maintainable code.
+</p>
 
 ---
 
