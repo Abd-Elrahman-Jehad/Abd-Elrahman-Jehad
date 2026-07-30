@@ -9,17 +9,17 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abd-Elrahman-Jehad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/Abd-Elrahman-Jehad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=7000&pause=2200&color=58A6FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Front-End+Web+Developer;Building+Modern+Responsive+Websites;Clean+Code+%7C+Scalable+Architecture;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=7000&pause=2200&color=58A6FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Front-End+Web+Developer;Building+Modern+Responsive+Websites;Clean+Code+%7C+Scalable+Architecture;Always+Building+Something+New"/>
 </p>
 
 ---
@@ -61,18 +61,6 @@ I transform ideas and UI designs into fast, interactive, and maintainable digita
 My focus is on writing scalable, maintainable code, delivering intuitive user experiences, and building high-quality software solutions that combine performance, responsiveness, and usability.
 
 I'm always looking for opportunities to contribute to meaningful projects, solve real-world problems, and continuously grow as a software engineer.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abd-Elrahman-Jehad&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-Jehad&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-</p>
 
 ---
 
