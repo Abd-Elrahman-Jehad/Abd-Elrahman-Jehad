@@ -59,36 +59,19 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 ---
 ## 📊 GitHub Activity
 
-<table>
-<tr>
-
-<td width="55%">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=8B949E"/>
 
-</td>
-
-<td width="45%">
-
-### 🚀 Quick Facts
-
-- 🎓 Software Engineer
-- 💻 Front-End Web Developer
-- 🌍 Based in Palestine
-- ☕ Java • PHP • JavaScript
-- ⚡ Clean & Responsive UI
-- 🚀 Open Source Enthusiast
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <p align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&theme=github-dark&hide_border=true"/>
 
 </p>
+
+---
 
 ## Featured Projects
 
