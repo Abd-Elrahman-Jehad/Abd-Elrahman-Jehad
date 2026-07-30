@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abd Elrahman Jehad Aldasht</h1>
+<h1 align="center">Hi, I'm Abd Elrahman Jehad Aldasht</h1>
 
 <h3 align="center">
 Software Engineer | Front-End Web Developer
