@@ -16,10 +16,13 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 <a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=Abd-Elrahman-Jehad&style=for-the-badge&color=0A66C2"/>
+
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=7000&pause=2200&color=58A6FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Front-End+Web+Developer;Building+Modern+Responsive+Websites;Clean+Code+%7C+Scalable+Architecture;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=8000&pause=2500&color=58A6FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Front-End+Web+Developer;Building+Modern+Responsive+Websites;Clean+Code+%7C+Scalable+Architecture;Always+Building+Something+New"/>
 </p>
 
 ---
@@ -29,23 +32,14 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Responsive%20Design-0EA5E9?style=for-the-badge"/>
 
 </p>
@@ -54,13 +48,13 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 
 ## 👨‍💻 About Me
 
-I'm **Abd Elrahman Jehad Aldasht**, a **Software Engineer** specializing in **Front-End Development** with a passion for building modern, responsive, and user-focused websites.
+I'm **Abd Elrahman Jehad Aldasht**, a **Software Engineer** specializing in **Front-End Development**.
 
-I transform ideas and UI designs into fast, interactive, and maintainable digital experiences using **HTML, CSS, JavaScript, PHP, and Java**, while following clean architecture and software engineering best practices.
+I build modern, responsive, and user-centered websites by transforming ideas and UI designs into fast, interactive, and maintainable digital experiences using **HTML, CSS, JavaScript, PHP, and Java**.
 
-My focus is on writing scalable, maintainable code, delivering intuitive user experiences, and building high-quality software solutions that combine performance, responsiveness, and usability.
+I enjoy writing clean, scalable code, creating intuitive user experiences, and developing high-quality software that combines performance, responsiveness, and maintainability.
 
-I'm always looking for opportunities to contribute to meaningful projects, solve real-world problems, and continuously grow as a software engineer.
+I'm always open to collaborating on impactful projects and continuously improving my technical expertise.
 
 ---
 
@@ -68,7 +62,7 @@ I'm always looking for opportunities to contribute to meaningful projects, solve
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=8B949E"/>
 
 </p>
 
