@@ -216,28 +216,90 @@ Discover a futuristic premium bicycle experience featuring cinematic animations,
 
 <br>
 
+<br>
 
-🚗 **[Lilia Motors – Luxury Car Showroom](https://github.com/Abd-Elrahman-Jehad/lilia-motors-website.git)**  
-Modern frontend website for a luxury car showroom built using HTML, CSS, and JavaScript.
+# 03 • 🚘 Lilia Motors
 
-Designed a complete multi-section layout tailored for a premium automotive experience.
+### **[Luxury Car Showroom](https://github.com/Abd-Elrahman-Jehad/lilia-motors-website)**
 
-Developed key sections including Hero, Features, Services, About, Car Portfolio, Team, Pricing, Blog, and Contact.
+*A modern luxury car showroom website featuring elegant layouts, premium automotive visuals, and responsive frontend experiences built with HTML, CSS, and JavaScript.*
 
-Implemented interactive UI elements such as hover effects, smooth animations, and scroll-based reveal.
+Designed to reflect the sophistication of high-end automotive brands, **Lilia Motors** combines clean UI design, immersive interactions, and smooth animations to deliver a premium digital showroom experience across all devices.
 
-Built a dynamic car showcase with filtering system for different categories.
+### ✨ Highlights
 
-Ensured fully responsive layout across mobile, tablet, and desktop devices.
+- Luxury automotive interface with a modern and elegant visual identity.
+- Fully responsive design optimized for desktop, tablet, and mobile devices.
+- Cinematic hero section with engaging call-to-action elements.
+- Interactive vehicle portfolio with category filtering.
+- Smooth scrolling animations and scroll-based reveal effects.
+- Elegant hover interactions throughout the interface.
+- Multi-section architecture including Hero, Features, Services, About, Portfolio, Team, Pricing, Blog, and Contact.
+- Responsive layouts built with Flexbox and CSS Grid.
+- Clean, scalable frontend architecture with reusable components.
+- Optimized user experience focused on performance and visual consistency.
 
-Structured the layout using Flexbox and CSS Grid for clean and scalable design.
+---
+
+## 🚀 Experience Lilia Motors
+
+Explore a premium luxury car showroom featuring elegant animations, interactive vehicle showcases, responsive layouts, and a refined browsing experience directly in your browser.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ea9394f9-ceab-42b5-966e-749dbf1339a4" width="30%" />
-  <img src="https://github.com/user-attachments/assets/cbbe6247-2234-4040-aa1e-07f389edd4ea" width="30%" />
-  <img src="https://github.com/user-attachments/assets/2f8c0d00-6770-4dfd-899b-c4687cc9eb51" width="30%" />
+
+<a href="https://abd-elrahman-jehad.github.io/lilia-motors-website/">
+<img src="https://img.shields.io/badge/🚘%20Launch-Lilia%20Motors-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Abd-Elrahman-Jehad/lilia-motors-website">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
+<p align="center">
+<b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>Responsive Design</b> • <b>Luxury UI</b>
+</p>
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/ea9394f9-ceab-42b5-966e-749dbf1339a4"
+     width="92%"
+     alt="Lilia Motors Hero"/>
+
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github.com/user-attachments/assets/cbbe6247-2234-4040-aa1e-07f389edd4ea"
+     width="100%"
+     alt="Vehicle Showcase"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github.com/user-attachments/assets/2f8c0d00-6770-4dfd-899b-c4687cc9eb51"
+     width="100%"
+     alt="Premium Sections"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 🦷 **[Lazord – Dental Clinic & Digital Lab Website](https://github.com/Abd-Elrahman-Jehad/DentalClinic.git)**
 
 Modern frontend website for a dental clinic and digital lab built using HTML, CSS, and JavaScript.
