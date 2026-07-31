@@ -88,10 +88,10 @@ Inspired by the digital experience of luxury automotive brands, **TURPOTIC** com
 
 - Premium luxury UI inspired by modern automotive brands.
 - Fully responsive design optimized for desktop, tablet, and mobile devices.
-- Cinematic full-screen hero sections with smooth scrolling animations.
+- Cinematic loading screen and immersive full-screen hero experience.
 - Elegant page transitions for a seamless browsing experience.
 - Glassmorphism and subtle blur effects that maintain visual continuity between internal pages.
-- Sophisticated background overlays that remain softly visible behind shopping and vehicle pages, creating depth and a premium atmosphere.
+- Sophisticated background overlays that create depth and a premium atmosphere.
 - Dynamic vehicle collections with category filtering and intelligent price sorting.
 - Dedicated vehicle details pages with related vehicle recommendations.
 - Interactive search drawer for quick vehicle discovery.
@@ -124,7 +124,94 @@ Experience the live luxury automotive gallery and explore its premium interface,
 <b>Luxury UI</b> • <b>Responsive Design</b> • <b>Cinematic Animations</b> • <b>Smooth Page Transitions</b> • <b>Interactive Shopping Experience</b>
 </p>
 
+---
+
+## 📸 Project Preview
+
+### Loading Experience
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/b73294d7-0e20-4edf-8323-5aaaff618bfa"  width="92%"
+     alt="Loading Screen" />
+
+
+</p>
+
 <br>
+
+### Homepage
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/4c4a7299-331a-482c-ac8a-dd89634a51a8"  width="92%"
+     alt="Homepage" />
+
+</p>
+
+<br>
+
+### Browse the Collection
+
+<table align="center">
+
+<tr>
+
+<td width="33.3%" align="center">
+
+<img src="https://github.com/user-attachments/assets/cdea28ae-328f-429d-8d3e-0956a59f939e" width="100%"
+     alt="Cars Gallery" />
+
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://github.com/user-attachments/assets/a331b66a-f984-4bcc-8baf-6b45a01e4804" width="100%"
+     alt="Motorcycles Gallery" />
+
+
+
+</td>
+
+<td width="33.3%" align="center">
+
+  <img src="https://github.com/user-attachments/assets/a8cdd2a2-f35a-490c-9860-fb9be44a49db"  width="100%"
+     alt="Vehicle Details" />
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+### Search & Checkout
+
+<table align="center">
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github.com/user-attachments/assets/e18c7f7c-197e-4f93-8956-ce0cf056cf9c"
+         width="100%"
+     alt="Search Drawer"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github.com/user-attachments/assets/8de9e96b-c144-450b-a5bc-9006a40de658" width="100%"
+     alt="Shopping Cart "/>
+
+</td>
+
+</tr>
+
+</table>
+
 <br>
 
 # 02 • 🚴 XTRA
