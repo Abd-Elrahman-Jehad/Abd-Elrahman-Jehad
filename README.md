@@ -77,38 +77,48 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 
 🏎️ **[TURPOTIC – Luxury Automotive Gallery](https://github.com/Abd-Elrahman-Jehad/TURPOTIC)**
 
-A premium luxury automotive gallery that delivers a cinematic browsing experience for high-performance cars and motorcycles through a modern, elegant, and highly responsive user interface.
+A premium luxury automotive gallery delivering a cinematic browsing experience for high-performance cars and motorcycles through a modern, elegant, and fully responsive user interface.
 
-Designed to resemble the digital experience of luxury automotive brands, the project combines immersive visuals, smooth interactions, and polished UI details to create a refined and engaging user journey.
+Inspired by the digital experience of luxury automotive brands, TURPOTIC combines immersive visuals, refined animations, and polished interactions to create a seamless browsing journey from vehicle discovery to checkout.
 
 ### ✨ Highlights
 
-- Premium luxury interface with a modern dark aesthetic.
+- Premium luxury UI inspired by modern automotive brands.
 - Fully responsive design optimized for desktop, tablet, and mobile devices.
 - Cinematic full-screen hero sections with smooth scrolling animations.
-- Beautiful page transitions that create a seamless browsing experience.
-- Glassmorphism and blur effects that preserve visual continuity while navigating between internal pages.
-- Elegant background overlays that remain softly visible behind shopping and vehicle pages, adding depth and a premium feel.
-- Dynamic vehicle collections with category filtering and price sorting.
-- Dedicated vehicle details pages with related recommendations.
+- Elegant page transitions for a seamless browsing experience.
+- Glassmorphism and subtle blur effects that maintain visual continuity between internal pages.
+- Sophisticated background overlays that remain softly visible behind shopping and vehicle pages, creating depth and a premium atmosphere.
+- Dynamic vehicle collections with category filtering and intelligent price sorting.
+- Dedicated vehicle details pages with related vehicle recommendations.
 - Interactive search drawer for quick vehicle discovery.
-- Shopping cart with live preview and checkout-style workflow.
-- Client-side form validation for a realistic purchasing experience.
-- Optimized image loading and lightweight architecture for fast performance.
-- Ready for deployment on GitHub Pages, Netlify, and other static hosting platforms.
+- Shopping cart with live preview and checkout-style purchasing workflow.
+- Client-side form validation for a realistic shopping experience.
+- Optimized image loading and lightweight architecture for excellent performance.
+- Ready for deployment on GitHub Pages, Netlify, Vercel, and other static hosting platforms.
 
-## 🚀 Live Demo
+---
+
+## 🚀 Experience TURPOTIC
+
+Experience the live luxury automotive gallery and explore its premium interface, cinematic animations, seamless navigation, interactive shopping experience, and responsive design directly in your browser.
 
 <p align="center">
 
-Experience the live website by clicking the button below.
-
-<br><br>
-
-<a href="https://abd-elrahman-jehad.github.io/TURPOTIC/#home" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Explore%20the%20Website-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://abd-elrahman-jehad.github.io/TURPOTIC/#home">
+<img src="https://img.shields.io/badge/🚗%20Launch-TURPOTIC-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
+<a href="https://github.com/Abd-Elrahman-Jehad/TURPOTIC">
+<img src="https://img.shields.io/badge/📂%20Source-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Luxury UI</b> • <b>Responsive Design</b> • <b>Cinematic Animations</b> • <b>Smooth Page Transitions</b> • <b>Interactive Shopping Experience</b>
 </p>
 
 
