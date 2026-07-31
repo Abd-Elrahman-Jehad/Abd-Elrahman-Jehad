@@ -637,38 +637,126 @@ Explore a complete authentication interface showcasing modern login workflows, r
 
 <br>
 
-📦 **[PHP Product Inventory](https://github.com/Abd-Elrahman-Jehad/php-product-inventory)**  
-Web-based inventory management system developed using PHP and MySQL, containerized with Docker.
+<br>
 
-Implemented full CRUD functionality for managing product records.
+# 07 • 📦 PHP Product Inventory
 
-Designed structured forms and integrated server-side validation.
+### **[Containerized Inventory Management System](https://github.com/Abd-Elrahman-Jehad/php-product-inventory)**
 
-Configured Docker containers for Apache and MySQL services.
+*A containerized web-based inventory management system built with **PHP**, **MySQL**, and **Docker**, providing a complete product management workflow through a clean and scalable backend architecture.*
 
-Ensured portability and consistent local deployment environment.
+Designed to simplify inventory operations, the system combines CRUD functionality, server-side validation, and containerized deployment to deliver a reliable and portable development environment.
 
-🎓 **[University Management System (Java)](https://github.com/Abd-Elrahman-Jehad/university-management-system-java)**  
-Console-based university management system developed using Java and core Object-Oriented Programming principles. The system manages students, courses, and academic records through a structured menu-driven interface.
+### ✨ Highlights
 
-Applied OOP concepts including encapsulation, inheritance, and abstraction.
+- Complete CRUD operations for product management.
+- Secure server-side form validation.
+- MySQL database integration for persistent data storage.
+- Dockerized Apache and MySQL services for consistent deployment.
+- Clean and maintainable backend architecture.
+- Portable development environment with simplified setup.
+- Organized project structure following backend development best practices.
 
-Used ArrayList for dynamic data management and flexible record handling.
+---
 
-Implemented validation logic and structured program flow using loops and conditionals.
+## 🚀 Explore the Project
 
-Focused on clean code structure and modular design.
+Browse the source code to explore the backend architecture, Docker configuration, database integration, and complete inventory management workflow.
 
-☁ **[Spark Taxi Cloud Project (Cloud + ML)](https://github.com/Abd-Elrahman-Jehad/spark-taxi-cloud-project)**  
-Cloud computing project simulating a taxi service system using distributed architecture concepts and data analytics.
+<p align="center">
 
-Designed cluster-like architecture for service simulation.
+<a href="https://github.com/Abd-Elrahman-Jehad/php-product-inventory">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Integrated data processing and Machine Learning for performance prediction.
+</p>
 
-Focused on scalability and system efficiency.
+<p align="center">
+<b>PHP</b> • <b>MySQL</b> • <b>Docker</b> • <b>Apache</b> • <b>CRUD System</b>
+</p>
 
-Applied cloud computing and distributed system concepts.
+<br>
+
+<br>
+
+# 08 • 🎓 University Management System
+
+### **[Java-Based University Management System](https://github.com/Abd-Elrahman-Jehad/university-management-system-java)**
+
+*A console-based university management system developed with **Java**, demonstrating core Object-Oriented Programming principles through the management of students, courses, and academic records.*
+
+Designed to simulate real-world academic administration, the system provides a structured menu-driven interface while emphasizing clean architecture, modular design, and fundamental software engineering practices.
+
+### ✨ Highlights
+
+- Student, course, and academic record management.
+- Object-Oriented Programming using encapsulation, inheritance, and abstraction.
+- Dynamic data management with Java **ArrayList**.
+- Structured menu-driven console interface.
+- Input validation and efficient program flow control.
+- Modular architecture with reusable classes.
+- Clean, organized, and maintainable Java codebase.
+
+---
+
+## 🚀 Explore the Project
+
+Browse the source code to explore the object-oriented architecture, modular Java implementation, and academic management workflows.
+
+<p align="center">
+
+<a href="https://github.com/Abd-Elrahman-Jehad/university-management-system-java">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Java</b> • <b>Object-Oriented Programming</b> • <b>ArrayList</b> • <b>Console Application</b> • <b>Software Engineering</b>
+</p>
+
+<br>
+
+
+<br>
+
+# 09 • ☁️ Spark Taxi Cloud Project
+
+### **[Cloud-Based Taxi Service Simulation](https://github.com/Abd-Elrahman-Jehad/spark-taxi-cloud-project)**
+
+*A cloud computing project simulating a distributed taxi service architecture using scalable data processing, cloud computing concepts, and machine learning techniques for performance analysis and prediction.*
+
+Designed to demonstrate modern cloud technologies, the project explores distributed system architecture, data analytics, and intelligent prediction models while emphasizing scalability, resource efficiency, and real-world service simulation.
+
+### ✨ Highlights
+
+- Distributed taxi service simulation using cloud computing concepts.
+- Cluster-inspired architecture for scalable service execution.
+- Data processing pipeline for operational analysis.
+- Machine Learning integration for performance prediction.
+- Focus on scalability, fault tolerance, and system efficiency.
+- Application of distributed systems and cloud architecture principles.
+- Clean project organization with emphasis on software engineering practices.
+
+---
+
+## 🚀 Explore the Project
+
+Browse the source code to explore the cloud architecture, distributed computing concepts, data processing workflow, and machine learning implementation.
+
+<p align="center">
+
+<a href="https://github.com/Abd-Elrahman-Jehad/spark-taxi-cloud-project">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Cloud Computing</b> • <b>Apache Spark</b> • <b>Machine Learning</b> • <b>Distributed Systems</b> • <b>Data Analytics</b>
+</p>
+
+<br>
 
 ---
 
