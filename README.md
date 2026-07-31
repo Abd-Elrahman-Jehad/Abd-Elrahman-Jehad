@@ -75,11 +75,15 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 
 ## Featured Projects
 
-🏎️ **[TURPOTIC – Luxury Automotive Gallery](https://github.com/Abd-Elrahman-Jehad/TURPOTIC)**
+<br>
 
-A premium luxury automotive gallery delivering a cinematic browsing experience for high-performance cars and motorcycles through a modern, elegant, and fully responsive user interface.
+# 🏎️ Project Showcase • TURPOTIC
 
-Inspired by the digital experience of luxury automotive brands, TURPOTIC combines immersive visuals, refined animations, and polished interactions to create a seamless browsing journey from vehicle discovery to checkout.
+### **[TURPOTIC – Luxury Automotive Gallery](https://github.com/Abd-Elrahman-Jehad/TURPOTIC)**
+
+*A premium luxury automotive gallery delivering a cinematic browsing experience for high-performance cars and motorcycles through a modern, elegant, and fully responsive user interface.*
+
+Inspired by the digital experience of luxury automotive brands, **TURPOTIC** combines immersive visuals, refined animations, and polished interactions to create a seamless browsing journey from vehicle discovery to checkout.
 
 ### ✨ Highlights
 
@@ -112,7 +116,7 @@ Experience the live luxury automotive gallery and explore its premium interface,
 &nbsp;&nbsp;
 
 <a href="https://github.com/Abd-Elrahman-Jehad/TURPOTIC">
-<img src="https://img.shields.io/badge/📂%20Source-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -121,6 +125,7 @@ Experience the live luxury automotive gallery and explore its premium interface,
 <b>Luxury UI</b> • <b>Responsive Design</b> • <b>Cinematic Animations</b> • <b>Smooth Page Transitions</b> • <b>Interactive Shopping Experience</b>
 </p>
 
+<br>
 
 🚴 **[XTRA Bike Shop – Futuristic Premium Bicycle Experience](https://github.com/Abd-Elrahman-Jehad/XTRA)**
 
