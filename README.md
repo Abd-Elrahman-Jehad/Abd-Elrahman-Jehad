@@ -665,12 +665,11 @@ Explore a complete authentication interface showcasing modern login workflows, r
 </p>
 
 ---
-
 ## 📸 Project Preview
 
 <p align="center">
 
-<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Login.png"
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Login.png"
      width="92%"
      alt="Login"/>
 
@@ -682,39 +681,35 @@ Explore a complete authentication interface showcasing modern login workflows, r
 
 <tr>
 
-<td width="33.3%" align="center">
+<td width="25%" align="center">
 
-<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Register.png"
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Register.png"
      width="100%"
      alt="Register"/>
 
 </td>
 
-<td width="33.3%" align="center">
+<td width="25%" align="center">
 
-<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Forgot_Password.png"
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Forgot_Password.png"
      width="100%"
      alt="Forgot Password"/>
 
 </td>
 
-<td width="33.3%" align="center">
+<td width="25%" align="center">
 
-<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Reset_Your_Password2.png"
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Reset_Your_Password2.png"
      width="100%"
      alt="Reset Password"/>
 
 </td>
 
-</tr>
+<td width="25%" align="center">
 
-<tr>
-
-<td colspan="3" align="center">
-
-<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Two_Factor_Authentication2.png"
-     width="90%"
-     alt="Two Factor Authentication"/>
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Two_Factor_Authentication2.png"
+     width="100%"
+     alt="Two-Factor Authentication"/>
 
 </td>
 
