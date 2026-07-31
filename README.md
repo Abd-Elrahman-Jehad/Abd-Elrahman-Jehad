@@ -240,42 +240,70 @@ Applied cloud computing and distributed system concepts.
 ---
 
 
+
+# 💼 Professional Experience
+
+### Front-End Developer Intern
+**Webura Company**
+
+📅 April 2026 – June 2026
+
+- Developed responsive web interfaces using HTML, CSS, and JavaScript.
+- Collaborated with the development team to build and improve web applications.
+- Converted UI designs into responsive and maintainable websites.
+- Followed clean coding practices and modern frontend development standards.
+
+### Hands-on Software Development Experience
+
+Throughout my university studies, I gained extensive practical experience by designing and developing a wide range of academic and personal software projects.
+
+- Built modern, responsive websites and complete frontend applications.
+- Developed authentication systems, dashboards, and interactive user interfaces.
+- Applied Object-Oriented Programming (Java), PHP, MySQL, Git, GitHub, and Docker in real development projects.
+- Strengthened problem-solving, debugging, code organization, and software engineering best practices through continuous project-based learning.
+
 ---
 
-# 🏅 Certifications
 
-<table>
-<tr>
-<td>🎓</td>
-<td><b>Front-End Web Development Internship</b><br>Webura Company</td>
-</tr>
+# 🎯 Core Strengths
 
-<tr>
-<td>☕</td>
-<td><b>Java Programming</b></td>
-</tr>
+- 💻 Building modern, responsive, and user-centered web applications.
+- 🎨 Creating clean, intuitive, and visually appealing user interfaces.
+- ⚡ Writing clean, maintainable, and scalable code.
+- 📱 Developing fully responsive websites for all screen sizes.
+- 🤝 Collaborating effectively in team-based development environments.
+- 🧩 Strong problem-solving and debugging skills.
+- 🚀 Passionate about continuous learning and improving development skills.
 
-<tr>
-<td>🧩</td>
-<td><b>Object-Oriented Programming (OOP)</b></td>
-</tr>
-
-<tr>
-<td>🌐</td>
-<td><b>Responsive Web Design</b></td>
-</tr>
-
-<tr>
-<td>🔧</td>
-<td><b>Git & GitHub</b></td>
-</tr>
-</table>
+---
 
 
+---
 
+# 📫 Contact
 
-## 🌐 Contact
+<p align="center">
 
-- 💻 GitHub: [Abd-Elrahman-Jehad](https://github.com/Abd-Elrahman-Jehad)
-- 🔗 LinkedIn: [Abd Elrahman Jehad](https://www.linkedin.com/in/abd-elrahman-jehad-aldasht)
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/your-github-username">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b><br>
+  Feel free to explore my repositories and connect with me.
+</p>
 
