@@ -125,44 +125,73 @@ Experience the live luxury automotive gallery and explore its premium interface,
 </p>
 
 <br>
+<br>
 
-🚴 **[XTRA Bike Shop – Futuristic Premium Bicycle Experience](https://github.com/Abd-Elrahman-Jehad/XTRA)**
+# 02 • 🚴 XTRA
 
-A cinematic futuristic bicycle website built with a luxury dark UI, immersive animations, and high-end frontend interactions using HTML, CSS, and JavaScript.
+### **[Futuristic Premium Bicycle Experience](https://github.com/Abd-Elrahman-Jehad/XTRA)**
 
-Designed and developed a complete premium multi-section experience inspired by futuristic automotive interfaces, cyberpunk visuals, and luxury digital experiences.
+*A cinematic premium bicycle experience featuring futuristic visuals, immersive animations, and luxury frontend interactions powered by modern web technologies.*
 
-Developed advanced sections including Hero, About, Services, Shop, FAQ, Contact, and interactive Product Showcase.
+Inspired by cyberpunk aesthetics and next-generation digital experiences, **XTRA** delivers a visually striking interface that combines cinematic motion, interactive components, and responsive layouts to create an engaging and memorable browsing journey.
 
-Implemented modern frontend systems such as:
-- Cinematic loading screen
-- Racing wheel animations
-- Premium hover interactions
-- Dynamic navigation effects
-- Smooth scroll animations
-- Interactive transitions
-- Responsive adaptive layouts
+### ✨ Highlights
 
-Integrated powerful frontend technologies including GSAP, Three.js, tsParticles, Flexbox, and CSS Grid to create a modern immersive experience.
+- Futuristic luxury interface with a premium dark visual identity.
+- Fully responsive design optimized for desktop, tablet, and mobile devices.
+- Cinematic loading screen and immersive hero experience.
+- Advanced animations powered by **GSAP** and **Three.js**.
+- Interactive particle backgrounds using **tsParticles**.
+- Racing-inspired wheel animations and dynamic visual effects.
+- Smooth scrolling, elegant hover interactions, and animated navigation.
+- Premium product showcase with interactive browsing.
+- Multi-section architecture including Hero, About, Services, Shop, FAQ, and Contact.
+- Responsive layouts built with Flexbox and CSS Grid.
+- Optimized frontend architecture for smooth performance across all devices.
 
-Focused heavily on:
-- Luxury visual identity
-- Cinematic UI/UX
-- Smooth motion systems
-- High-end responsive design
-- Premium frontend architecture
+---
 
-Ensured fully responsive layout across desktop, tablet, and mobile devices while maintaining smooth animation performance and visual consistency.
+## 🚀 Experience XTRA
+
+Discover a futuristic premium bicycle experience featuring cinematic animations, immersive 3D effects, responsive layouts, and modern frontend interactions directly in your browser.
 
 <p align="center">
-  <img alt="Screenshot 2026-05-15 210444" src="https://github.com/user-attachments/assets/726ea515-9d16-4118-8ccc-b12341c1a837 "width="30%" />
-<img  alt="Screenshot 2026-05-15 210421" src="https://github.com/user-attachments/assets/a696e138-bdb0-479a-9e93-42d9bba983e2" width="30%" />
-<img  alt="Screenshot 2026-05-15 214356" src="https://github.com/user-attachments/assets/e3f38f49-36a6-4fab-81c6-6b8ce17ffee6"  width="30%" />
-<img alt="Screenshot 2026-05-15 213219" src="https://github.com/user-attachments/assets/74af9fb2-6d8e-4c76-8048-79d21d9b1d25"  width="30%" />
 
+<a href="https://abd-elrahman-jehad.github.io/XTRA/">
+<img src="https://img.shields.io/badge/🚴%20Launch-XTRA-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
+&nbsp;&nbsp;
+
+<a href="https://github.com/Abd-Elrahman-Jehad/XTRA">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
+
+<p align="center">
+<b>GSAP</b> • <b>Three.js</b> • <b>tsParticles</b> • <b>Responsive Design</b> • <b>Cinematic UI</b>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/726ea515-9d16-4118-8ccc-b12341c1a837" width="92%" alt="XTRA Hero"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/a696e138-bdb0-479a-9e93-42d9bba983e2" width="31%" alt="Shop"/>
+
+<img src="https://github.com/user-attachments/assets/e3f38f49-36a6-4fab-81c6-6b8ce17ffee6" width="31%" alt="Products"/>
+
+<img src="https://github.com/user-attachments/assets/74af9fb2-6d8e-4c76-8048-79d21d9b1d25" width="31%" alt="Contact"/>
+
+</p>
+
+<br>
 
 🚗 **[Lilia Motors – Luxury Car Showroom](https://github.com/Abd-Elrahman-Jehad/lilia-motors-website.git)**  
 Modern frontend website for a luxury car showroom built using HTML, CSS, and JavaScript.
