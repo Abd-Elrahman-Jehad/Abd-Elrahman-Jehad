@@ -75,6 +75,42 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 
 ## Featured Projects
 
+🏎️ **[TURPOTIC – Luxury Automotive Gallery](https://github.com/Abd-Elrahman-Jehad/TURPOTIC)**
+
+A premium luxury automotive gallery that delivers a cinematic browsing experience for high-performance cars and motorcycles through a modern, elegant, and highly responsive user interface.
+
+Designed to resemble the digital experience of luxury automotive brands, the project combines immersive visuals, smooth interactions, and polished UI details to create a refined and engaging user journey.
+
+### ✨ Highlights
+
+- Premium luxury interface with a modern dark aesthetic.
+- Fully responsive design optimized for desktop, tablet, and mobile devices.
+- Cinematic full-screen hero sections with smooth scrolling animations.
+- Beautiful page transitions that create a seamless browsing experience.
+- Glassmorphism and blur effects that preserve visual continuity while navigating between internal pages.
+- Elegant background overlays that remain softly visible behind shopping and vehicle pages, adding depth and a premium feel.
+- Dynamic vehicle collections with category filtering and price sorting.
+- Dedicated vehicle details pages with related recommendations.
+- Interactive search drawer for quick vehicle discovery.
+- Shopping cart with live preview and checkout-style workflow.
+- Client-side form validation for a realistic purchasing experience.
+- Optimized image loading and lightweight architecture for fast performance.
+- Ready for deployment on GitHub Pages, Netlify, and other static hosting platforms.
+
+🚀 **Live Demo**
+
+Experience the project online:
+
+**https://abd-elrahman-jehad.github.io/TURPOTIC/#home**
+
+<p align="center">
+  <a href="https://abd-elrahman-jehad.github.io/TURPOTIC/#home">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Explore%20the%20Website-orange?style=for-the-badge"/>
+  </a>
+</p>
+
+
+
 🚴 **[XTRA Bike Shop – Futuristic Premium Bicycle Experience](https://github.com/Abd-Elrahman-Jehad/XTRA)**
 
 A cinematic futuristic bicycle website built with a luxury dark UI, immersive animations, and high-end frontend interactions using HTML, CSS, and JavaScript.
