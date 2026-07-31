@@ -72,14 +72,13 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 </p>
 
 ---
-
-## Featured Projects
+# 📂 Featured Projects
 
 <br>
 
-# 🏎️ Project Showcase • TURPOTIC
+# 01 • 🏎️ TURPOTIC
 
-### **[TURPOTIC – Luxury Automotive Gallery](https://github.com/Abd-Elrahman-Jehad/TURPOTIC)**
+### **[Luxury Automotive Gallery](https://github.com/Abd-Elrahman-Jehad/TURPOTIC)**
 
 *A premium luxury automotive gallery delivering a cinematic browsing experience for high-performance cars and motorcycles through a modern, elegant, and fully responsive user interface.*
 
@@ -116,7 +115,7 @@ Experience the live luxury automotive gallery and explore its premium interface,
 &nbsp;&nbsp;
 
 <a href="https://github.com/Abd-Elrahman-Jehad/TURPOTIC">
-<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
