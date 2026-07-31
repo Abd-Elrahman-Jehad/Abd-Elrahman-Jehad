@@ -174,42 +174,44 @@ Discover a futuristic premium bicycle experience featuring cinematic animations,
 </p>
 
 ---
-
 ## 📸 Project Preview
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/726ea515-9d16-4118-8ccc-b12341c1a837"
+     width="92%"
+     alt="XTRA Hero"/>
+</p>
+
+<br>
 
 <table align="center">
 <tr>
 
-<td width="68%" align="center">
+<td align="center" width="33.3%">
 
-<img src="https://github.com/user-attachments/assets/726ea515-9d16-4118-8ccc-b12341c1a837" width="100%" alt="Hero"/>
-
-</td>
-
-<td width="32%" align="center">
-
-<img src="https://github.com/user-attachments/assets/a696e138-bdb0-479a-9e93-42d9bba983e2" width="100%" alt="Shop"/>
+<img src="https://github.com/user-attachments/assets/a696e138-bdb0-479a-9e93-42d9bba983e2"
+     width="100%"
+     alt="Landing Page"/>
 
 </td>
 
-</tr>
+<td align="center" width="33.3%">
 
-<tr>
-
-<td align="center">
-
-<img src="https://github.com/user-attachments/assets/e3f38f49-36a6-4fab-81c6-6b8ce17ffee6" width="100%" alt="Products"/>
+<img src="https://github.com/user-attachments/assets/e3f38f49-36a6-4fab-81c6-6b8ce17ffee6"
+     width="100%"
+     alt="Shop"/>
 
 </td>
 
-<td align="center">
+<td align="center" width="33.3%">
 
-<img src="https://github.com/user-attachments/assets/74af9fb2-6d8e-4c76-8048-79d21d9b1d25" width="100%" alt="Contact"/>
+<img src="https://github.com/user-attachments/assets/74af9fb2-6d8e-4c76-8048-79d21d9b1d25"
+     width="100%"
+     alt="FAQ"/>
 
 </td>
 
 </tr>
-
 </table>
 
 <br>
