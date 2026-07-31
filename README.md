@@ -239,6 +239,41 @@ Focused on scalability and system efficiency.
 Applied cloud computing and distributed system concepts.
 ---
 
+
+---
+
+# 🏅 Certifications
+
+<table>
+<tr>
+<td>🎓</td>
+<td><b>Front-End Web Development Internship</b><br>Webura Company</td>
+</tr>
+
+<tr>
+<td>☕</td>
+<td><b>Java Programming</b></td>
+</tr>
+
+<tr>
+<td>🧩</td>
+<td><b>Object-Oriented Programming (OOP)</b></td>
+</tr>
+
+<tr>
+<td>🌐</td>
+<td><b>Responsive Web Design</b></td>
+</tr>
+
+<tr>
+<td>🔧</td>
+<td><b>Git & GitHub</b></td>
+</tr>
+</table>
+
+
+
+
 ## 🌐 Contact
 
 - 💻 GitHub: [Abd-Elrahman-Jehad](https://github.com/Abd-Elrahman-Jehad)
