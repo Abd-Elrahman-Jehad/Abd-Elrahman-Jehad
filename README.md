@@ -416,27 +416,120 @@ Explore a modern dental clinic and digital laboratory website featuring responsi
 
 <br>
 
-🌐 **[Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)**  
-Modern responsive personal portfolio built using HTML, CSS, and JavaScript to showcase projects and technical skills.
+<br>
 
-Designed a clean multi-section layout (About, Skills, Projects, Contact).
+# 05 • 🌐 Personal Portfolio
 
-Implemented dark mode toggle and typewriter animation using JavaScript.
+### **[Developer Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)**
 
-Built fully responsive design compatible with mobile, tablet, and desktop.
+*A modern personal portfolio showcasing projects, technical skills, and professional background through a clean, responsive, and interactive frontend experience built with HTML, CSS, and JavaScript.*
 
-Organized code into structured and maintainable files.
+Designed to establish a strong personal brand, this portfolio combines elegant UI design, smooth animations, and modern frontend interactions to effectively present experience, projects, education, and contact information in a professional and engaging way.
+
+### ✨ Highlights
+
+- Modern and elegant personal portfolio interface.
+- Fully responsive design optimized for desktop, tablet, and mobile devices.
+- Interactive dark mode with seamless theme switching.
+- Dynamic typewriter animation introducing the developer.
+- Multi-section architecture including Hero, About, Skills, Projects, Education, Experience, Testimonials, and Contact.
+- Smooth scrolling animations and refined hover interactions.
+- Project showcase designed for recruiters and technical interviews.
+- Clean layouts built with Flexbox and CSS Grid.
+- Well-structured, scalable, and maintainable frontend architecture.
+- Optimized user experience focused on accessibility and performance.
+
+---
+
+## 🚀 Explore My Portfolio
+
+Visit my personal portfolio to explore featured projects, technical skills, professional experience, and frontend development work in a modern interactive environment.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/home.png" width="240"/>
- <img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/about-me-skills.png" width="240"/>
- <img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/Projects.png" width="240"/>
- <img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/education-experience2.png" width="240"/>
- <img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/My Customers_2.png" width="240"/>
-  <img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/contact-us2.png" width="240"/>
+
+<a href="https://abd-elrahman-jehad.github.io/my-portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Visit-Portfolio-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Abd-Elrahman-Jehad/my-portfolio">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
+<p align="center">
+<b>Personal Branding</b> • <b>Dark Mode</b> • <b>Responsive Design</b> • <b>JavaScript</b> • <b>Interactive UI</b>
+</p>
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/home.png"
+     width="92%"
+     alt="Portfolio Hero"/>
+
+</p>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="33.3%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/about-me-skills.png"
+     width="100%"
+     alt="About & Skills"/>
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/Projects.png"
+     width="100%"
+     alt="Projects"/>
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/education-experience2.png"
+     width="100%"
+     alt="Education & Experience"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/My%20Customers_2.png"
+     width="100%"
+     alt="Testimonials"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/contact-us2.png"
+     width="100%"
+     alt="Contact"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 🔐 **[Authentication Pages UI](https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css)**  
 Complete authentication interface project built using HTML, CSS, and JavaScript.
