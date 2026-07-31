@@ -713,7 +713,7 @@ Explore a complete authentication interface showcasing modern login workflows, r
 <td colspan="3" align="center">
 
 <img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Two_Factor_Authentication2.png"
-     width="60%"
+     width="80%"
      alt="Two Factor Authentication"/>
 
 </td>
