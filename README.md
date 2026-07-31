@@ -237,7 +237,7 @@ Integrated data processing and Machine Learning for performance prediction.
 Focused on scalability and system efficiency.
 
 Applied cloud computing and distributed system concepts.
----
+
 ---
 
 
@@ -286,8 +286,8 @@ Throughout my university studies, I gained extensive practical experience by des
 
 <p align="center">
 
-<a href="mailto:jehadbood@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jehadbood@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
