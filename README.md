@@ -531,23 +531,111 @@ Visit my personal portfolio to explore featured projects, technical skills, prof
 
 <br>
 
-🔐 **[Authentication Pages UI](https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css)**  
-Complete authentication interface project built using HTML, CSS, and JavaScript.
+<br>
 
-Developed Login, Register, Forgot Password, Reset Password, and 2FA pages.
+# 06 • 🔐 Authentication UI
 
-Ensured responsive layout and consistent UI structure across screens.
+### **[Modern Authentication Pages](https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css)**
 
-Implemented dark mode toggle for improved accessibility.
+*A modern authentication interface featuring secure user flows, elegant UI design, and responsive layouts built with HTML, CSS, and JavaScript.*
 
-Structured CSS files separately for better scalability and maintainability.
+Designed as a reusable authentication system, this project focuses on delivering a clean and consistent user experience across essential account management screens while maintaining scalability, accessibility, and modern frontend design principles.
+
+### ✨ Highlights
+
+- Complete authentication interface with modern UI design.
+- Fully responsive layout optimized for desktop, tablet, and mobile devices.
+- Login, Register, Forgot Password, Reset Password, and Two-Factor Authentication (2FA) pages.
+- Interactive form validation and seamless authentication flow.
+- Dark mode support for improved accessibility and user preference.
+- Consistent visual design across all authentication screens.
+- Organized CSS architecture for maintainable and scalable development.
+- Clean layouts built with Flexbox and modern CSS techniques.
+- Lightweight frontend implementation focused on usability and performance.
+
+---
+
+## 🚀 Experience Authentication UI
+
+Explore a complete authentication interface showcasing modern login workflows, responsive layouts, dark mode support, and consistent frontend design directly in your browser.
+
 <p align="center">
- <img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Login.png" width="240"/>
- <img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Register.png" width="240"/>
- <img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Forgot_Password.png" width="240"/>
- <img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Reset_Your_Password2.png" width="240"/>
- <img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Two_Factor_Authentication2.png" width="240"/>
+
+<a href="https://abd-elrahman-jehad.github.io/auth-pages-html-css/">
+<img src="https://img.shields.io/badge/🔐%20Launch-Authentication%20UI-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
+
+<p align="center">
+<b>Authentication UI</b> • <b>Dark Mode</b> • <b>Responsive Design</b> • <b>2FA</b> • <b>Modern Frontend</b>
+</p>
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+
+<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Login.png"
+     width="92%"
+     alt="Login"/>
+
+</p>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="33.3%" align="center">
+
+<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Register.png"
+     width="100%"
+     alt="Register"/>
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Forgot_Password.png"
+     width="100%"
+     alt="Forgot Password"/>
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Reset_Your_Password2.png"
+     width="100%"
+     alt="Reset Password"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="3" align="center">
+
+<img src="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css/blob/main/Auth/screenshots/Two_Factor_Authentication2.png"
+     width="60%"
+     alt="Two Factor Authentication"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 📦 **[PHP Product Inventory](https://github.com/Abd-Elrahman-Jehad/php-product-inventory)**  
 Web-based inventory management system developed using PHP and MySQL, containerized with Docker.
