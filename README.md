@@ -300,36 +300,119 @@ Explore a premium luxury car showroom featuring elegant animations, interactive 
 </table>
 
 <br>
-🦷 **[Lazord – Dental Clinic & Digital Lab Website](https://github.com/Abd-Elrahman-Jehad/DentalClinic.git)**
+<br>
 
-Modern frontend website for a dental clinic and digital lab built using HTML, CSS, and JavaScript.
+# 04 • 🦷 Lazord
 
-Designed a complete multi-page layout tailored for a modern medical experience.
+### **[Dental Clinic & Digital Lab Website](https://github.com/Abd-Elrahman-Jehad/DentalClinic)**
 
-Developed key sections including Hero, Solutions, Products, Workflow, About, Contact, and FAQ.
+*A modern healthcare website designed for a dental clinic and digital laboratory, combining clean medical aesthetics, responsive layouts, and a complete authentication experience powered by HTML, CSS, and JavaScript.*
 
-Implemented a full authentication UI system including Login, Register, Forgot Password, and Reset Password with form validation and user flow handling.
+Built to deliver a professional digital healthcare experience, **Lazord** combines elegant UI design, intuitive navigation, and interactive frontend components to create a seamless journey from discovering services to secure account access.
 
-Integrated Google login (UI simulation) as part of the authentication experience.
+### ✨ Highlights
 
-Built interactive UI elements such as hover effects, smooth transitions, and scroll-based animations.
+- Modern healthcare interface with a clean and professional visual identity.
+- Fully responsive design optimized for desktop, tablet, and mobile devices.
+- Multi-page architecture designed for clinics and digital laboratories.
+- Comprehensive authentication system including Login, Register, Forgot Password, and Reset Password pages.
+- Interactive form validation with complete user authentication flow.
+- Google Sign-In interface integrated as part of the authentication experience.
+- Dedicated sections including Hero, Solutions, Products, Workflow, About, FAQ, and Contact.
+- Smooth scrolling animations, elegant hover effects, and modern page transitions.
+- Responsive layouts built with Flexbox and CSS Grid.
+- Clean, scalable frontend architecture focused on usability and maintainability.
 
-Ensured a fully responsive layout across mobile, tablet, and desktop devices.
+---
 
-Structured the layout using Flexbox and CSS Grid for clean, organized, and scalable design.
+## 🚀 Experience Lazord
+
+Explore a modern dental clinic and digital laboratory website featuring responsive layouts, interactive authentication interfaces, smooth animations, and a professional healthcare user experience directly in your browser.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf76b6ac-4dbb-4c9e-802c-ecf29e4b5cfe" width="32%" />
-  <img src="https://github.com/user-attachments/assets/96f3a01d-58b8-48b9-aad4-6380d7b2be32" width="32%" />
-  <img src="https://github.com/user-attachments/assets/b2078073-b66f-4f36-8f08-241f7f31ff0a" width="32%" />
+
+<a href="https://abd-elrahman-jehad.github.io/DentalClinic/">
+<img src="https://img.shields.io/badge/🦷%20Launch-Lazord-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Abd-Elrahman-Jehad/DentalClinic">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08dfcd29-21a2-4170-89cd-a7718905d247" width="32%" />
-  <img src="https://github.com/user-attachments/assets/1be335d0-13d7-479c-926f-a3db28fc0a80" width="32%" />
-  <img src="https://github.com/user-attachments/assets/97340f98-012a-4a5e-950d-c22431ec2978" width="32%" />
+<b>Authentication UI</b> • <b>Responsive Design</b> • <b>Healthcare UI</b> • <b>JavaScript</b> • <b>Modern Frontend</b>
 </p>
 
+---
+
+## 📸 Project Preview
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/cf76b6ac-4dbb-4c9e-802c-ecf29e4b5cfe"
+     width="92%"
+     alt="Lazord Hero"/>
+
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="33.3%" align="center">
+
+<img src="https://github.com/user-attachments/assets/96f3a01d-58b8-48b9-aad4-6380d7b2be32"
+     width="100%"
+     alt="Solutions"/>
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://github.com/user-attachments/assets/b2078073-b66f-4f36-8f08-241f7f31ff0a"
+     width="100%"
+     alt="Workflow"/>
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://github.com/user-attachments/assets/08dfcd29-21a2-4170-89cd-a7718905d247"
+     width="100%"
+     alt="Products"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github.com/user-attachments/assets/1be335d0-13d7-479c-926f-a3db28fc0a80"
+     width="100%"
+     alt="Authentication"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github.com/user-attachments/assets/97340f98-012a-4a5e-950d-c22431ec2978"
+     width="100%"
+     alt="Contact"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 🌐 **[Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)**  
 Modern responsive personal portfolio built using HTML, CSS, and JavaScript to showcase projects and technical skills.
