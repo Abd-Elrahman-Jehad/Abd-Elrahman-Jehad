@@ -97,18 +97,19 @@ Designed to resemble the digital experience of luxury automotive brands, the pro
 - Optimized image loading and lightweight architecture for fast performance.
 - Ready for deployment on GitHub Pages, Netlify, and other static hosting platforms.
 
-🚀 **Live Demo**
-
-Experience the project online:
-
-**https://abd-elrahman-jehad.github.io/TURPOTIC/#home**
+## 🚀 Live Demo
 
 <p align="center">
-  <a href="https://abd-elrahman-jehad.github.io/TURPOTIC/#home">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Explore%20the%20Website-orange?style=for-the-badge"/>
-  </a>
-</p>
 
+Experience the live website by clicking the button below.
+
+<br><br>
+
+<a href="https://abd-elrahman-jehad.github.io/TURPOTIC/#home" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Explore%20the%20Website-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
 
 
 🚴 **[XTRA Bike Shop – Futuristic Premium Bicycle Experience](https://github.com/Abd-Elrahman-Jehad/XTRA)**
