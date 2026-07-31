@@ -287,19 +287,15 @@ Throughout my university studies, I gained extensive practical experience by des
 <p align="center">
 
 <a href="mailto:jehadbood@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="www.linkedin.com/in/abd-elrahman-jehad-aldasht">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/your-github-username">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/Abd-Elrahman-Jehad">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </p>
@@ -308,4 +304,3 @@ Throughout my university studies, I gained extensive practical experience by des
   <b>Thanks for visiting my profile! ⭐</b><br>
   Feel free to explore my repositories and connect with me.
 </p>
-
