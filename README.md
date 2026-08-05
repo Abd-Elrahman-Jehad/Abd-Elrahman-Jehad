@@ -60,12 +60,18 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 ## 📊 GitHub Activity
 
 <p align="center">
-  <b>GitHub activity widgets are temporarily unavailable.</b>
+
+<img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=8B949E"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Projects%20%26%20Experience-58A6FF?style=for-the-badge"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&theme=github-dark&hide_border=true"/>
+
 </p>
+
+
 ---
 # 📂 Featured Projects
 
