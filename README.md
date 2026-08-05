@@ -66,9 +66,7 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 </p>
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&theme=github-dark&hide_border=true"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
