@@ -85,83 +85,61 @@ I'm always open to collaborating on meaningful projects and continuously expandi
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&cache_seconds=86400"/>
 </p>
 
-
-
-
 ---
-<div align="center">
 
 # 🌐 Personal Portfolio
 
-### **Abd Elrahman Jehad Aldasht**
+<p align="center">
+  <a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
+    <img src="assets/portfolio-hero.svg" width="100%" alt="Abd Elrahman Jehad — Personal Portfolio, animated preview" />
+  </a>
+</p>
 
-<p><strong>Software Engineer • Front-End Web Developer</strong></p>
+### **[React Portfolio — Bilingual, Animated, SEO-Ready](https://github.com/Abd-Elrahman-Jehad/Abd-Elrahman-Portfolio)**
 
-<p>A modern, responsive, and interactive portfolio designed to showcase my projects, technical skills, professional experience, and development journey.</p>
+*My own personal portfolio, rebuilt from scratch in React — the site you're most likely to land on first when someone looks me up. Fully bilingual (English/Arabic, with proper RTL layout), themeable, and tuned end-to-end for how it actually gets viewed: shared as a link, opened on a phone, found through a search engine.*
 
-<br>
+### ✨ Highlights
+
+- Full English ⇄ Arabic switch with proper RTL layout — not just translated strings, mirrored UI.
+- Light and dark themes with a smooth, non-flickering sliding toggle.
+- Cinematic scroll-reveal animations tuned to never flicker or restart mid-transition, even at section boundaries.
+- Floating, responsive navbar with a mobile drawer that carries the theme switch along with it.
+- Interactive certificate and project cards with modal previews, real thumbnails, and graceful image-fallback handling.
+- Animated, count-up hero statistics and a particle background.
+- Working contact form (no backend needed) with success/error states, plus WhatsApp, LinkedIn, GitHub, and a pre-filled email link.
+- Full SEO pass: Open Graph + Twitter Card previews, JSON-LD structured data, `sitemap.xml`, `robots.txt`, and a custom-designed social preview image.
+- Auto-deployed straight from this GitHub repo to Netlify on every push.
+
+---
+
+## 🚀 Explore the Portfolio
+
+Visit the live site to explore the bilingual interface, theme switching, animated sections, and interactive project/certificate cards directly in your browser.
+
+<p align="center">
 
 <a href="https://abd-elrahman-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20EXPLORE%20PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20Visit-Live%20Portfolio-5b8cff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/Abd-Elrahman-Jehad/Abd-Elrahman-Portfolio">
-  <img src="https://img.shields.io/badge/💻%20VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source"/>
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Modern+Portfolio+Experience;Responsive+Design+%7C+Interactive+UI;Clean+Code+%7C+Smooth+Animations;Built+with+React+%2B+Vite" alt="Portfolio typing animation"/>
-
-<br><br>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### ✨ Portfolio Highlights
-
-</td>
-<td align="center" width="50%">
-
-### 🛠️ Built With
-
-</td>
-</tr>
-<tr>
-<td align="left">
-
-- 🎨 Modern professional interface
-- 📱 Fully responsive design
-- 🌙 Interactive theme switching
-- 🌐 English-first multilingual experience
-- ⚡ Smooth interactions and animations
-- 🧩 Structured React component architecture
-- 💼 Project and experience showcase
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/><br>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<b>React 18</b> • <b>Vite</b> • <b>Bilingual EN/AR</b> • <b>Light/Dark Theme</b> • <b>SEO-Ready</b>
+</p>
 
 <br>
 
-<p>
-  <em>Explore the portfolio to see the complete frontend experience, project work, skills, experience, education, certificates, and contact information.</em>
-</p>
-
-</div>
-
 ---
+
+
 
 # 📂 Featured Projects
 
@@ -596,9 +574,122 @@ Explore a modern dental clinic and digital laboratory website featuring responsi
 
 <br>
 
+# 05 • 🌐 Personal Portfolio
+
+### **[Developer Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)**
+
+*A modern personal portfolio showcasing projects, technical skills, and professional background through a clean, responsive, and interactive frontend experience built with HTML, CSS, and JavaScript.*
+
+Designed to establish a strong personal brand, this portfolio combines elegant UI design, smooth animations, and modern frontend interactions to effectively present experience, projects, education, and contact information in a professional and engaging way.
+
+### ✨ Highlights
+
+- Modern and elegant personal portfolio interface.
+- Fully responsive design optimized for desktop, tablet, and mobile devices.
+- Interactive dark mode with seamless theme switching.
+- Dynamic typewriter animation introducing the developer.
+- Multi-section architecture including Hero, About, Skills, Projects, Education, Experience, Testimonials, and Contact.
+- Smooth scrolling animations and refined hover interactions.
+- Project showcase designed for recruiters and technical interviews.
+- Clean layouts built with Flexbox and CSS Grid.
+- Well-structured, scalable, and maintainable frontend architecture.
+- Optimized user experience focused on accessibility and performance.
+
 ---
 
-# 05 • 🔐 Authentication UI
+## 🚀 Explore My Portfolio
+
+Visit my personal portfolio to explore featured projects, technical skills, professional experience, and frontend development work in a modern interactive environment.
+
+<p align="center">
+
+<a href="https://abd-elrahman-jehad.github.io/my-portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Visit-Portfolio-ff6b00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Abd-Elrahman-Jehad/my-portfolio">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Personal Branding</b> • <b>Dark Mode</b> • <b>Responsive Design</b> • <b>JavaScript</b> • <b>Interactive UI</b>
+</p>
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/home.png"
+     width="92%"
+     alt="Portfolio Hero"/>
+
+</p>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="33.3%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/about-me-skills.png"
+     width="100%"
+     alt="About & Skills"/>
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/Projects.png"
+     width="100%"
+     alt="Projects"/>
+
+</td>
+
+<td width="33.3%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/education-experience2.png"
+     width="100%"
+     alt="Education & Experience"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/My%20Customers_2.png"
+     width="100%"
+     alt="Testimonials"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/contact-us2.png"
+     width="100%"
+     alt="Contact"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<br>
+
+# 06 • 🔐 Authentication UI
 
 ### **[Modern Authentication Pages](https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css)**
 
@@ -699,7 +790,7 @@ Explore a complete authentication interface showcasing modern login workflows, r
 
 <br>
 
-# 06 • 📦 PHP Product Inventory
+# 07 • 📦 PHP Product Inventory
 
 ### **[Containerized Inventory Management System](https://github.com/Abd-Elrahman-Jehad/php-product-inventory)**
 
@@ -739,7 +830,7 @@ Browse the source code to explore the backend architecture, Docker configuration
 
 <br>
 
-# 07 • 🎓 University Management System
+# 08 • 🎓 University Management System
 
 ### **[Java-Based University Management System](https://github.com/Abd-Elrahman-Jehad/university-management-system-java)**
 
@@ -780,7 +871,7 @@ Browse the source code to explore the object-oriented architecture, modular Java
 
 <br>
 
-# 08 • ☁️ Spark Taxi Cloud Project
+# 09 • ☁️ Spark Taxi Cloud Project
 
 ### **[Cloud-Based Taxi Service Simulation](https://github.com/Abd-Elrahman-Jehad/spark-taxi-cloud-project)**
 
