@@ -91,7 +91,7 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 
 <p align="center">
   <a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
-    <img src="assets/preview_hero.png" width="100%" alt="Abd Elrahman Jehad — Personal Portfolio, animated preview" />
+    <img src="assets/portfolio-hero.svg" width="100%" alt="Abd Elrahman Jehad — Personal Portfolio, animated preview" />
   </a>
 </p>
 
