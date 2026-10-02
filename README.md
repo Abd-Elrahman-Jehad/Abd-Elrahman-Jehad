@@ -14,21 +14,21 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0EA5E9&height=80&section=footer" width="100%" alt="footer" />
 
-<h2>🚀 Tech Stack</h2>
+</div>
+
+## 🚀 Tech Stack
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="38" />&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="38" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="38" />&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="38" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="38" />
 <br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="38" />&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="38" />&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="38" />&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="38" />&nbsp;<img src="https://img.shields.io/badge/Responsive%20Design-0EA5E9?style=for-the-badge" alt="Responsive Design" height="38" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0EA5E9&height=80&section=footer" width="100%" alt="footer" />
-
 </div>
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
 I'm **Abd Elrahman Jehad Aldasht**, a **Software Engineer** specializing in **Front-End Development**.
 
@@ -38,23 +38,23 @@ I'm passionate about writing clean, scalable code, creating intuitive user exper
 
 I'm always open to collaborating on meaningful projects and continuously expanding my technical expertise.
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
-
-<h2 align="center">📊 GitHub Activity</h2>
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Abd-Elrahman-Jehad&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&dates=8B949E&cache_seconds=86400" alt="GitHub Streak" />
 
-<br><br>
+<br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Elrahman-Jehad&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&cache_seconds=86400" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/Abd-Elrahman-Jehad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/Abd-Elrahman-Jehad/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/Abd-Elrahman-Jehad/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
-
-<h2 align="center">🌐 Personal Portfolio</h2>
+## 🌐 Personal Portfolio
 
 <p align="center">
   <a href="https://abd-elrahman-portfolio.netlify.app/" target="_blank">
@@ -62,11 +62,11 @@ I'm always open to collaborating on meaningful projects and continuously expandi
   </a>
 </p>
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/Abd-Elrahman-Portfolio">React Portfolio — Bilingual, Animated, SEO-Ready</a></h3>
+### [React Portfolio — Bilingual, Animated, SEO-Ready](https://github.com/Abd-Elrahman-Jehad/Abd-Elrahman-Portfolio)
 
-<p align="center"><i>My own personal portfolio, rebuilt from scratch in React — the site you're most likely to land on first when someone looks me up. Fully bilingual (English/Arabic, with proper RTL layout), themeable, and tuned end-to-end for how it actually gets viewed: shared as a link, opened on a phone, found through a search engine.</i></p>
+*My own personal portfolio, rebuilt from scratch in React — the site you're most likely to land on first when someone looks me up. Fully bilingual (English/Arabic, with proper RTL layout), themeable, and tuned end-to-end for how it actually gets viewed: shared as a link, opened on a phone, found through a search engine.*
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Full English ⇄ Arabic switch with proper RTL layout — not just translated strings, mirrored UI.
 - Light and dark themes with a smooth, non-flickering sliding toggle.
@@ -78,7 +78,7 @@ I'm always open to collaborating on meaningful projects and continuously expandi
 - Full SEO pass: Open Graph + Twitter Card previews, JSON-LD structured data, `sitemap.xml`, `robots.txt`, and a custom-designed social preview image.
 - Auto-deployed straight from this GitHub repo to Netlify on every push.
 
-<h3 align="center">🚀 Explore the Portfolio</h3>
+### 🚀 Explore the Portfolio
 
 Visit the live site to explore the bilingual interface, theme switching, animated sections, and interactive project/certificate cards directly in your browser.
 
@@ -92,21 +92,17 @@ Visit the live site to explore the bilingual interface, theme switching, animate
 
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 📂 Featured Projects
 
-<h2 align="center">📂 Featured Projects</h2>
+## 01 • 🏎️ TURPOTIC
 
-<br>
+### [Luxury Automotive Gallery](https://github.com/Abd-Elrahman-Jehad/TURPOTIC)
 
-<h2 align="center">01 • 🏎️ TURPOTIC</h2>
-
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/TURPOTIC">Luxury Automotive Gallery</a></h3>
-
-<p align="center"><i>A premium luxury automotive gallery delivering a cinematic browsing experience for high-performance cars and motorcycles through a modern, elegant, and fully responsive user interface.</i></p>
+*A premium luxury automotive gallery delivering a cinematic browsing experience for high-performance cars and motorcycles through a modern, elegant, and fully responsive user interface.*
 
 Inspired by the digital experience of luxury automotive brands, **TURPOTIC** combines immersive visuals, refined animations, and polished interactions to create a seamless browsing journey from vehicle discovery to checkout.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Premium luxury UI inspired by modern automotive brands.
 - Fully responsive design optimized for desktop, tablet, and mobile devices.
@@ -122,7 +118,7 @@ Inspired by the digital experience of luxury automotive brands, **TURPOTIC** com
 - Optimized image loading and lightweight architecture for excellent performance.
 - Ready for deployment on GitHub Pages, Netlify, Vercel, and other static hosting platforms.
 
-<h3 align="center">🚀 Experience TURPOTIC</h3>
+### 🚀 Experience TURPOTIC
 
 Experience the live luxury automotive gallery and explore its premium interface, cinematic animations, seamless navigation, interactive shopping experience, and responsive design directly in your browser.
 
@@ -136,21 +132,21 @@ Experience the live luxury automotive gallery and explore its premium interface,
 
 </div>
 
-<h3 align="center">📸 Project Preview</h3>
+### 📸 Project Preview
 
-<h4 align="center">Loading Experience</h4>
+#### Loading Experience
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/b73294d7-0e20-4edf-8323-5aaaff618bfa" width="92%" alt="Loading Screen" />
 </div>
 
-<h4 align="center">Homepage</h4>
+#### Homepage
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4c4a7299-331a-482c-ac8a-dd89634a51a8" width="92%" alt="Homepage" />
 </div>
 
-<h4 align="center">Browse the Collection</h4>
+#### Browse the Collection
 
 <table align="center">
 <tr>
@@ -160,7 +156,7 @@ Experience the live luxury automotive gallery and explore its premium interface,
 </tr>
 </table>
 
-<h4 align="center">Search &amp; Checkout</h4>
+#### Search & Checkout
 
 <table align="center">
 <tr>
@@ -169,17 +165,15 @@ Experience the live luxury automotive gallery and explore its premium interface,
 </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 02 • 🚴 XTRA
 
-<h2 align="center">02 • 🚴 XTRA</h2>
+### [Futuristic Premium Bicycle Experience](https://github.com/Abd-Elrahman-Jehad/XTRA)
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/XTRA">Futuristic Premium Bicycle Experience</a></h3>
-
-<p align="center"><i>A cinematic premium bicycle experience featuring futuristic visuals, immersive animations, and luxury frontend interactions powered by modern web technologies.</i></p>
+*A cinematic premium bicycle experience featuring futuristic visuals, immersive animations, and luxury frontend interactions powered by modern web technologies.*
 
 Inspired by cyberpunk aesthetics and next-generation digital experiences, **XTRA** delivers a visually striking interface that combines cinematic motion, interactive components, and responsive layouts to create an engaging and memorable browsing journey.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Futuristic luxury interface with a premium dark visual identity.
 - Fully responsive design optimized for desktop, tablet, and mobile devices.
@@ -193,7 +187,7 @@ Inspired by cyberpunk aesthetics and next-generation digital experiences, **XTRA
 - Responsive layouts built with Flexbox and CSS Grid.
 - Optimized frontend architecture for smooth performance across all devices.
 
-<h3 align="center">🚀 Experience XTRA</h3>
+### 🚀 Experience XTRA
 
 Discover a futuristic premium bicycle experience featuring cinematic animations, immersive 3D effects, responsive layouts, and modern frontend interactions directly in your browser.
 
@@ -207,7 +201,7 @@ Discover a futuristic premium bicycle experience featuring cinematic animations,
 
 </div>
 
-<h3 align="center">📸 Project Preview</h3>
+### 📸 Project Preview
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/726ea515-9d16-4118-8ccc-b12341c1a837" width="92%" alt="XTRA Hero" />
@@ -223,17 +217,15 @@ Discover a futuristic premium bicycle experience featuring cinematic animations,
 </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 03 • 🚘 Lilia Motors
 
-<h2 align="center">03 • 🚘 Lilia Motors</h2>
+### [Luxury Car Showroom](https://github.com/Abd-Elrahman-Jehad/lilia-motors-website)
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/lilia-motors-website">Luxury Car Showroom</a></h3>
-
-<p align="center"><i>A modern luxury car showroom website featuring elegant layouts, premium automotive visuals, and responsive frontend experiences built with HTML, CSS, and JavaScript.</i></p>
+*A modern luxury car showroom website featuring elegant layouts, premium automotive visuals, and responsive frontend experiences built with HTML, CSS, and JavaScript.*
 
 Designed to reflect the sophistication of high-end automotive brands, **Lilia Motors** combines clean UI design, immersive interactions, and smooth animations to deliver a premium digital showroom experience across all devices.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Luxury automotive interface with a modern and elegant visual identity.
 - Fully responsive design optimized for desktop, tablet, and mobile devices.
@@ -246,7 +238,7 @@ Designed to reflect the sophistication of high-end automotive brands, **Lilia Mo
 - Clean, scalable frontend architecture with reusable components.
 - Optimized user experience focused on performance and visual consistency.
 
-<h3 align="center">🚀 Experience Lilia Motors</h3>
+### 🚀 Experience Lilia Motors
 
 Explore a premium luxury car showroom featuring elegant animations, interactive vehicle showcases, responsive layouts, and a refined browsing experience directly in your browser.
 
@@ -260,7 +252,7 @@ Explore a premium luxury car showroom featuring elegant animations, interactive 
 
 </div>
 
-<h3 align="center">📸 Project Preview</h3>
+### 📸 Project Preview
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/ea9394f9-ceab-42b5-966e-749dbf1339a4" width="92%" alt="Lilia Motors Hero" />
@@ -275,17 +267,15 @@ Explore a premium luxury car showroom featuring elegant animations, interactive 
 </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 04 • 🦷 Lazord
 
-<h2 align="center">04 • 🦷 Lazord</h2>
+### [Dental Clinic & Digital Lab Website](https://github.com/Abd-Elrahman-Jehad/DentalClinic)
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/DentalClinic">Dental Clinic &amp; Digital Lab Website</a></h3>
-
-<p align="center"><i>A modern healthcare website designed for a dental clinic and digital laboratory, combining clean medical aesthetics, responsive layouts, and a complete authentication experience powered by HTML, CSS, and JavaScript.</i></p>
+*A modern healthcare website designed for a dental clinic and digital laboratory, combining clean medical aesthetics, responsive layouts, and a complete authentication experience powered by HTML, CSS, and JavaScript.*
 
 Built to deliver a professional digital healthcare experience, **Lazord** combines elegant UI design, intuitive navigation, and interactive frontend components to create a seamless journey from discovering services to secure account access.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Modern healthcare interface with a clean and professional visual identity.
 - Fully responsive design optimized for desktop, tablet, and mobile devices.
@@ -298,7 +288,7 @@ Built to deliver a professional digital healthcare experience, **Lazord** combin
 - Responsive layouts built with Flexbox and CSS Grid.
 - Clean, scalable frontend architecture focused on usability and maintainability.
 
-<h3 align="center">🚀 Experience Lazord</h3>
+### 🚀 Experience Lazord
 
 Explore a modern dental clinic and digital laboratory website featuring responsive layouts, interactive authentication interfaces, smooth animations, and a professional healthcare user experience directly in your browser.
 
@@ -312,7 +302,7 @@ Explore a modern dental clinic and digital laboratory website featuring responsi
 
 </div>
 
-<h3 align="center">📸 Project Preview</h3>
+### 📸 Project Preview
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/cf76b6ac-4dbb-4c9e-802c-ecf29e4b5cfe" width="92%" alt="Lazord Hero" />
@@ -335,17 +325,15 @@ Explore a modern dental clinic and digital laboratory website featuring responsi
 </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 05 • 🌐 Personal Portfolio
 
-<h2 align="center">05 • 🌐 Personal Portfolio</h2>
+### [Developer Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/my-portfolio">Developer Portfolio Website</a></h3>
-
-<p align="center"><i>A modern personal portfolio showcasing projects, technical skills, and professional background through a clean, responsive, and interactive frontend experience built with HTML, CSS, and JavaScript.</i></p>
+*A modern personal portfolio showcasing projects, technical skills, and professional background through a clean, responsive, and interactive frontend experience built with HTML, CSS, and JavaScript.*
 
 Designed to establish a strong personal brand, this portfolio combines elegant UI design, smooth animations, and modern frontend interactions to effectively present experience, projects, education, and contact information in a professional and engaging way.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Modern and elegant personal portfolio interface.
 - Fully responsive design optimized for desktop, tablet, and mobile devices.
@@ -358,7 +346,7 @@ Designed to establish a strong personal brand, this portfolio combines elegant U
 - Well-structured, scalable, and maintainable frontend architecture.
 - Optimized user experience focused on accessibility and performance.
 
-<h3 align="center">🚀 Explore My Portfolio</h3>
+### 🚀 Explore My Portfolio
 
 Visit my personal portfolio to explore featured projects, technical skills, professional experience, and frontend development work in a modern interactive environment.
 
@@ -372,7 +360,7 @@ Visit my personal portfolio to explore featured projects, technical skills, prof
 
 </div>
 
-<h3 align="center">📸 Project Preview</h3>
+### 📸 Project Preview
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/home.png" width="92%" alt="Portfolio Hero" />
@@ -395,17 +383,15 @@ Visit my personal portfolio to explore featured projects, technical skills, prof
 </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 06 • 🔐 Authentication UI
 
-<h2 align="center">06 • 🔐 Authentication UI</h2>
+### [Modern Authentication Pages](https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css)
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css">Modern Authentication Pages</a></h3>
-
-<p align="center"><i>A modern authentication interface featuring secure user flows, elegant UI design, and responsive layouts built with HTML, CSS, and JavaScript.</i></p>
+*A modern authentication interface featuring secure user flows, elegant UI design, and responsive layouts built with HTML, CSS, and JavaScript.*
 
 Designed as a reusable authentication system, this project focuses on delivering a clean and consistent user experience across essential account management screens while maintaining scalability, accessibility, and modern frontend design principles.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Complete authentication interface with modern UI design.
 - Fully responsive layout optimized for desktop, tablet, and mobile devices.
@@ -417,7 +403,7 @@ Designed as a reusable authentication system, this project focuses on delivering
 - Clean layouts built with Flexbox and modern CSS techniques.
 - Lightweight frontend implementation focused on usability and performance.
 
-<h3 align="center">🚀 Experience Authentication UI</h3>
+### 🚀 Experience Authentication UI
 
 Explore a complete authentication interface showcasing modern login workflows, responsive layouts, dark mode support, and consistent frontend design directly in your browser.
 
@@ -431,7 +417,7 @@ Explore a complete authentication interface showcasing modern login workflows, r
 
 </div>
 
-<h3 align="center">📸 Project Preview</h3>
+### 📸 Project Preview
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Login.png" width="92%" alt="Login" />
@@ -448,17 +434,15 @@ Explore a complete authentication interface showcasing modern login workflows, r
 </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 07 • 📦 PHP Product Inventory
 
-<h2 align="center">07 • 📦 PHP Product Inventory</h2>
+### [Containerized Inventory Management System](https://github.com/Abd-Elrahman-Jehad/php-product-inventory)
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/php-product-inventory">Containerized Inventory Management System</a></h3>
-
-<p align="center"><i>A containerized web-based inventory management system built with <b>PHP</b>, <b>MySQL</b>, and <b>Docker</b>, providing a complete product management workflow through a clean and scalable backend architecture.</i></p>
+*A containerized web-based inventory management system built with **PHP**, **MySQL**, and **Docker**, providing a complete product management workflow through a clean and scalable backend architecture.*
 
 Designed to simplify inventory operations, the system combines CRUD functionality, server-side validation, and containerized deployment to deliver a reliable and portable development environment.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Complete CRUD operations for product management.
 - Secure server-side form validation.
@@ -468,7 +452,7 @@ Designed to simplify inventory operations, the system combines CRUD functionalit
 - Portable development environment with simplified setup.
 - Organized project structure following backend development best practices.
 
-<h3 align="center">🚀 Explore the Project</h3>
+### 🚀 Explore the Project
 
 Browse the source code to explore the backend architecture, Docker configuration, database integration, and complete inventory management workflow.
 
@@ -482,17 +466,15 @@ Browse the source code to explore the backend architecture, Docker configuration
 
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 08 • 🎓 University Management System
 
-<h2 align="center">08 • 🎓 University Management System</h2>
+### [Java-Based University Management System](https://github.com/Abd-Elrahman-Jehad/university-management-system-java)
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/university-management-system-java">Java-Based University Management System</a></h3>
-
-<p align="center"><i>A console-based university management system developed with <b>Java</b>, demonstrating core Object-Oriented Programming principles through the management of students, courses, and academic records.</i></p>
+*A console-based university management system developed with **Java**, demonstrating core Object-Oriented Programming principles through the management of students, courses, and academic records.*
 
 Designed to simulate real-world academic administration, the system provides a structured menu-driven interface while emphasizing clean architecture, modular design, and fundamental software engineering practices.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Student, course, and academic record management.
 - Object-Oriented Programming using encapsulation, inheritance, and abstraction.
@@ -502,7 +484,7 @@ Designed to simulate real-world academic administration, the system provides a s
 - Modular architecture with reusable classes.
 - Clean, organized, and maintainable Java codebase.
 
-<h3 align="center">🚀 Explore the Project</h3>
+### 🚀 Explore the Project
 
 Browse the source code to explore the object-oriented architecture, modular Java implementation, and academic management workflows.
 
@@ -516,17 +498,15 @@ Browse the source code to explore the object-oriented architecture, modular Java
 
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 09 • ☁️ Spark Taxi Cloud Project
 
-<h2 align="center">09 • ☁️ Spark Taxi Cloud Project</h2>
+### [Cloud-Based Taxi Service Simulation](https://github.com/Abd-Elrahman-Jehad/spark-taxi-cloud-project)
 
-<h3 align="center"><a href="https://github.com/Abd-Elrahman-Jehad/spark-taxi-cloud-project">Cloud-Based Taxi Service Simulation</a></h3>
-
-<p align="center"><i>A cloud computing project simulating a distributed taxi service architecture using scalable data processing, cloud computing concepts, and machine learning techniques for performance analysis and prediction.</i></p>
+*A cloud computing project simulating a distributed taxi service architecture using scalable data processing, cloud computing concepts, and machine learning techniques for performance analysis and prediction.*
 
 Designed to demonstrate modern cloud technologies, the project explores distributed system architecture, data analytics, and intelligent prediction models while emphasizing scalability, resource efficiency, and real-world service simulation.
 
-<h3 align="center">✨ Highlights</h3>
+### ✨ Highlights
 
 - Distributed taxi service simulation using cloud computing concepts.
 - Cluster-inspired architecture for scalable service execution.
@@ -536,7 +516,7 @@ Designed to demonstrate modern cloud technologies, the project explores distribu
 - Application of distributed systems and cloud architecture principles.
 - Clean project organization with emphasis on software engineering practices.
 
-<h3 align="center">🚀 Explore the Project</h3>
+### 🚀 Explore the Project
 
 Browse the source code to explore the cloud architecture, distributed computing concepts, data processing workflow, and machine learning implementation.
 
@@ -550,11 +530,9 @@ Browse the source code to explore the cloud architecture, distributed computing 
 
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
+## 💼 Professional Experience
 
-<h2 align="center">💼 Professional Experience</h2>
-
-<h3>Front-End Developer Intern</h3>
+### Front-End Developer Intern
 
 **Webura Company**
 
@@ -565,7 +543,7 @@ Browse the source code to explore the cloud architecture, distributed computing 
 - Converted UI designs into responsive and maintainable websites.
 - Followed clean coding practices and modern frontend development standards.
 
-<h3>Hands-on Software Development Experience</h3>
+### Hands-on Software Development Experience
 
 Throughout my university studies, I gained extensive practical experience by designing and developing a wide range of academic and personal software projects.
 
@@ -574,9 +552,7 @@ Throughout my university studies, I gained extensive practical experience by des
 - Applied Object-Oriented Programming (Java), PHP, MySQL, Git, GitHub, and Docker in real development projects.
 - Strengthened problem-solving, debugging, code organization, and software engineering best practices through continuous project-based learning.
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
-
-<h2 align="center">🎯 Core Strengths</h2>
+## 🎯 Core Strengths
 
 <table align="center" width="100%">
 <tr>
@@ -596,9 +572,7 @@ Throughout my university studies, I gained extensive practical experience by des
 </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:58A6FF&height=2" width="100%" alt="divider" /></p>
-
-<h2 align="center">📫 Contact</h2>
+## 📫 Contact
 
 <div align="center">
 
