@@ -576,7 +576,8 @@ Throughout my university studies, I gained extensive practical experience by des
 
 <div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jehadbood@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" /></a>&nbsp;<a href="https://github.com/Abd-Elrahman-Jehad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdelrahman.j.aldasht@gmail.com
+"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/abd-elrahman-jehad-aldasht"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" /></a>&nbsp;<a href="https://github.com/Abd-Elrahman-Jehad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" /></a>
 
 <br>
 
