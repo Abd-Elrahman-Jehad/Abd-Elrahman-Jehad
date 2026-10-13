@@ -25,6 +25,8 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="38" />&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="38" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="38" />&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="38" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="38" />
 <br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="38" />&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="38" />&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="38" />&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="38" />&nbsp;<img src="https://img.shields.io/badge/Responsive%20Design-0EA5E9?style=for-the-badge" alt="Responsive Design" height="38" />
+<br><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="38" />&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="38" />&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="38" />&nbsp;<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" height="38" />
 
 </div>
 
@@ -32,7 +34,7 @@ Building modern, responsive, and high-performance websites with clean, scalable,
 
 I'm **Abd Elrahman Jehad Aldasht**, a **Software Engineer** specializing in **Front-End Development**.
 
-I build modern, responsive, and user-centered websites by transforming ideas into fast, interactive, and maintainable digital experiences using **HTML, CSS, JavaScript, PHP, and Java**.
+I build modern, responsive, and user-centered websites by transforming ideas into fast, interactive, and maintainable digital experiences using **HTML, CSS, JavaScript, TypeScript, React, GSAP, PHP, and Java**.
 
 I'm passionate about writing clean, scalable code, creating intuitive user experiences, and developing software that combines performance, responsiveness, and maintainability.
 
@@ -94,7 +96,85 @@ Visit the live site to explore the bilingual interface, theme switching, animate
 
 ## 📂 Featured Projects
 
-## 01 • 🏎️ TURPOTIC
+## 01 • ⌚ AURUM — Heritage 42
+
+### [Scroll-Driven Luxury Watch Experience](https://github.com/Abd-Elrahman-Jehad/aurum-heritage)
+
+*A cinematic, scroll-driven luxury watch website where a single timepiece is disassembled and rebuilt on screen as you scroll — crafted with React, TypeScript, GSAP ScrollTrigger and Lenis, in English and Arabic.*
+
+Inspired by the digital storytelling of haute-horlogerie maisons, **AURUM** turns the anatomy of a watch into an immersive narrative: case, dial and movement are revealed chapter by chapter, with every transition choreographed to the scroll position and tuned to stay smooth on phones, tablets and desktops.
+
+### ✨ Highlights
+
+- Scroll-scrubbed story built with **GSAP ScrollTrigger** timelines and **Lenis** smooth scrolling, rebuilt per layout with `matchMedia` for portrait and wide screens.
+- Nine transparent watch cutouts on a warm brown-gold backdrop, each with a dedicated detail page.
+- Bilingual **English ⇄ Arabic** switch that swaps content instantly without breaking the layout or the running animations.
+- Cinematic loading curtain, half-circle navigation menu, and an ambient soundscape that starts after the first user gesture.
+- Every image, video and font preloaded and optimized for small, high-quality delivery with immutable caching.
+- Animated cards that enter from the side or bottom, replay on re-entry, and count their numbers up.
+- Working contact form with honeypot, time-trap and rate-limit protection, delivered through FormSubmit.
+- Static **SEO / GEO prerender**: per-route HTML, Open Graph and Twitter cards, JSON-LD, sitemap, robots, `llms.txt` and custom share images.
+- Hardened delivery: strict Content-Security-Policy, security headers, zero known production vulnerabilities in `npm audit`.
+- Verified across mobile, tablet, laptop and ultra-wide viewports, with CI on GitHub Actions.
+
+### 🚀 Experience AURUM
+
+Open the live site and scroll through the full story: the closed case lifts to reveal the dial, the movement assembles, and the finished timepiece settles into place — then browse the collection and open any watch for its own detail page.
+
+<div align="center">
+
+<a href="https://aurum-heritage.netlify.app/"><img src="https://img.shields.io/badge/⌚%20Launch-AURUM-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch AURUM" height="40" /></a>&nbsp;&nbsp;<a href="https://github.com/Abd-Elrahman-Jehad/aurum-heritage"><img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" height="40" /></a>
+
+<p>
+<b>React 18</b> • <b>TypeScript</b> • <b>GSAP ScrollTrigger</b> • <b>Lenis</b> • <b>Vite</b> • <b>Bilingual EN/AR</b> • <b>SEO &amp; Security</b>
+</p>
+
+</div>
+
+### 📸 Project Preview
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/hero.jpg" width="92%" alt="AURUM Hero" />
+</div>
+
+<br>
+
+#### The Scroll Story
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/story.webp" width="92%" alt="AURUM scroll-driven story animation" />
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/story-2-case.jpg" width="100%" alt="The Case" /></td>
+<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/story-3-dial.jpg" width="100%" alt="The Dial" /></td>
+<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/story-4-movement.jpg" width="100%" alt="The Movement" /></td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/collection.jpg" width="100%" alt="Collection" /></td>
+<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/watch-detail.jpg" width="100%" alt="Watch Detail" /></td>
+<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/craftsmanship-reel.jpg" width="100%" alt="Craftsmanship" /></td>
+</tr>
+</table>
+
+#### Mobile Experience
+
+<table align="center">
+<tr>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/mobile-1.jpg" width="100%" alt="Mobile 1" /></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/mobile-2.jpg" width="100%" alt="Mobile 2" /></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/mobile-3.jpg" width="100%" alt="Mobile 3" /></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/aurum-heritage/main/docs/screens/mobile-4.jpg" width="100%" alt="Mobile 4" /></td>
+</tr>
+</table>
+
+## 02 • 🏎️ TURPOTIC
 
 ### [Luxury Automotive Gallery](https://github.com/Abd-Elrahman-Jehad/TURPOTIC)
 
@@ -165,7 +245,7 @@ Experience the live luxury automotive gallery and explore its premium interface,
 </tr>
 </table>
 
-## 02 • 🚴 XTRA
+## 03 • 🚴 XTRA
 
 ### [Futuristic Premium Bicycle Experience](https://github.com/Abd-Elrahman-Jehad/XTRA)
 
@@ -217,7 +297,7 @@ Discover a futuristic premium bicycle experience featuring cinematic animations,
 </tr>
 </table>
 
-## 03 • 🚘 Lilia Motors
+## 04 • 🚘 Lilia Motors
 
 ### [Luxury Car Showroom](https://github.com/Abd-Elrahman-Jehad/lilia-motors-website)
 
@@ -267,7 +347,7 @@ Explore a premium luxury car showroom featuring elegant animations, interactive 
 </tr>
 </table>
 
-## 04 • 🦷 Lazord
+## 05 • 🦷 Lazord
 
 ### [Dental Clinic & Digital Lab Website](https://github.com/Abd-Elrahman-Jehad/DentalClinic)
 
@@ -325,148 +405,7 @@ Explore a modern dental clinic and digital laboratory website featuring responsi
 </tr>
 </table>
 
-## 05 • 🌐 Personal Portfolio
-
-### [Developer Portfolio Website](https://github.com/Abd-Elrahman-Jehad/my-portfolio)
-
-*A modern personal portfolio showcasing projects, technical skills, and professional background through a clean, responsive, and interactive frontend experience built with HTML, CSS, and JavaScript.*
-
-Designed to establish a strong personal brand, this portfolio combines elegant UI design, smooth animations, and modern frontend interactions to effectively present experience, projects, education, and contact information in a professional and engaging way.
-
-### ✨ Highlights
-
-- Modern and elegant personal portfolio interface.
-- Fully responsive design optimized for desktop, tablet, and mobile devices.
-- Interactive dark mode with seamless theme switching.
-- Dynamic typewriter animation introducing the developer.
-- Multi-section architecture including Hero, About, Skills, Projects, Education, Experience, Testimonials, and Contact.
-- Smooth scrolling animations and refined hover interactions.
-- Project showcase designed for recruiters and technical interviews.
-- Clean layouts built with Flexbox and CSS Grid.
-- Well-structured, scalable, and maintainable frontend architecture.
-- Optimized user experience focused on accessibility and performance.
-
-### 🚀 Explore My Portfolio
-
-Visit my personal portfolio to explore featured projects, technical skills, professional experience, and frontend development work in a modern interactive environment.
-
-<div align="center">
-
-<a href="https://abd-elrahman-jehad.github.io/my-portfolio/"><img src="https://img.shields.io/badge/🌐%20Visit-Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio" height="40" /></a>&nbsp;&nbsp;<a href="https://github.com/Abd-Elrahman-Jehad/my-portfolio"><img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" height="40" /></a>
-
-<p>
-<b>Personal Branding</b> • <b>Dark Mode</b> • <b>Responsive Design</b> • <b>JavaScript</b> • <b>Interactive UI</b>
-</p>
-
-</div>
-
-### 📸 Project Preview
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/home.png" width="92%" alt="Portfolio Hero" />
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/about-me-skills.png" width="100%" alt="About & Skills" /></td>
-<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/Projects.png" width="100%" alt="Projects" /></td>
-<td width="33.3%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/education-experience2.png" width="100%" alt="Education & Experience" /></td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/My%20Customers_2.png" width="100%" alt="Testimonials" /></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/my-portfolio/main/final%20project/screenshots/contact-us2.png" width="100%" alt="Contact" /></td>
-</tr>
-</table>
-
-## 06 • 🔐 Authentication UI
-
-### [Modern Authentication Pages](https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css)
-
-*A modern authentication interface featuring secure user flows, elegant UI design, and responsive layouts built with HTML, CSS, and JavaScript.*
-
-Designed as a reusable authentication system, this project focuses on delivering a clean and consistent user experience across essential account management screens while maintaining scalability, accessibility, and modern frontend design principles.
-
-### ✨ Highlights
-
-- Complete authentication interface with modern UI design.
-- Fully responsive layout optimized for desktop, tablet, and mobile devices.
-- Login, Register, Forgot Password, Reset Password, and Two-Factor Authentication (2FA) pages.
-- Interactive form validation and seamless authentication flow.
-- Dark mode support for improved accessibility and user preference.
-- Consistent visual design across all authentication screens.
-- Organized CSS architecture for maintainable and scalable development.
-- Clean layouts built with Flexbox and modern CSS techniques.
-- Lightweight frontend implementation focused on usability and performance.
-
-### 🚀 Experience Authentication UI
-
-Explore a complete authentication interface showcasing modern login workflows, responsive layouts, dark mode support, and consistent frontend design directly in your browser.
-
-<div align="center">
-
-<a href="https://abd-elrahman-jehad.github.io/auth-pages-html-css/"><img src="https://img.shields.io/badge/🔐%20Launch-Authentication%20UI-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch Authentication UI" height="40" /></a>&nbsp;&nbsp;<a href="https://github.com/Abd-Elrahman-Jehad/auth-pages-html-css"><img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" height="40" /></a>
-
-<p>
-<b>Authentication UI</b> • <b>Dark Mode</b> • <b>Responsive Design</b> • <b>2FA</b> • <b>Modern Frontend</b>
-</p>
-
-</div>
-
-### 📸 Project Preview
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Login.png" width="92%" alt="Login" />
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Register.png" width="100%" alt="Register" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Forgot_Password.png" width="100%" alt="Forgot Password" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Reset_Your_Password2.png" width="100%" alt="Reset Password" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/Abd-Elrahman-Jehad/auth-pages-html-css/main/Auth/screenshots/Two_Factor_Authentication2.png" width="100%" alt="Two-Factor Authentication" /></td>
-</tr>
-</table>
-
-## 07 • 📦 PHP Product Inventory
-
-### [Containerized Inventory Management System](https://github.com/Abd-Elrahman-Jehad/php-product-inventory)
-
-*A containerized web-based inventory management system built with **PHP**, **MySQL**, and **Docker**, providing a complete product management workflow through a clean and scalable backend architecture.*
-
-Designed to simplify inventory operations, the system combines CRUD functionality, server-side validation, and containerized deployment to deliver a reliable and portable development environment.
-
-### ✨ Highlights
-
-- Complete CRUD operations for product management.
-- Secure server-side form validation.
-- MySQL database integration for persistent data storage.
-- Dockerized Apache and MySQL services for consistent deployment.
-- Clean and maintainable backend architecture.
-- Portable development environment with simplified setup.
-- Organized project structure following backend development best practices.
-
-### 🚀 Explore the Project
-
-Browse the source code to explore the backend architecture, Docker configuration, database integration, and complete inventory management workflow.
-
-<div align="center">
-
-<a href="https://github.com/Abd-Elrahman-Jehad/php-product-inventory"><img src="https://img.shields.io/badge/💻%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" height="40" /></a>
-
-<p>
-<b>PHP</b> • <b>MySQL</b> • <b>Docker</b> • <b>Apache</b> • <b>CRUD System</b>
-</p>
-
-</div>
-
-## 08 • 🎓 University Management System
+## 06 • 🎓 University Management System
 
 ### [Java-Based University Management System](https://github.com/Abd-Elrahman-Jehad/university-management-system-java)
 
@@ -498,7 +437,7 @@ Browse the source code to explore the object-oriented architecture, modular Java
 
 </div>
 
-## 09 • ☁️ Spark Taxi Cloud Project
+## 07 • ☁️ Spark Taxi Cloud Project
 
 ### [Cloud-Based Taxi Service Simulation](https://github.com/Abd-Elrahman-Jehad/spark-taxi-cloud-project)
 
